@@ -1,0 +1,69 @@
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <a class="js-top btn--fab btn--fab--primary btn--fab--medium" href="#top"><i class="fa fa-angle-up"></i></a>
+
+        <div class="row">
+
+          <div class="col-12">
+            <!-- Social media icons (cheatsheet for icons: http://fontawesome.io/cheatsheet/) -->
+            <ul class="nav--social">
+              <!-- Social media icon - Twitter -->
+              <li>
+                <a href="https://twitter.com/deskandstudio" target="_blank" class="link--default"><i class="fa fa-twitter"></i></a>
+              </li>
+
+              <!-- Social media icon - Facebook -->
+              <li>
+                <a href="https://www.facebook.com/deskandstudio/" target="_blank" class="link--default"><i class="fa fa-facebook"></i></a>
+              </li>
+
+              <!-- Social media icon - Linkedin -->
+              <li>
+                <a href="https://www.linkedin.com/company-beta/18164424/" target="_blank" class="link--default"><i class="fa fa-linkedin"></i></a>
+              </li>
+
+              <li class="list-break"></li>
+
+              <!-- Social media icon - Instagram -->
+              <li>
+                <a href="https://www.instagram.com/deskandstudio/" target="_blank" class="link--default"><i class="fa fa-instagram"></i></a>
+              </li>
+
+              <!-- Social media icon - The Loop -->
+              <!--
+              <li>
+                <a href="https://www.theloop.com.au/deskandstudio/overview" target="_blank" class="link--default">The Loop</a>
+              </li>
+              -->
+            </ul><!-- .end Social media icons -->
+
+            <!-- Copyright -->
+            <small class="footer__copy d-block text-center">Template &copy;2017 Alex Devero, copy and images &copy; 2017 Lyn Taylor.</small>
+          </div>
+
+        </div>
+      </div>
+    </footer><!-- .end Footer -->
+    
+
+    <!-- Scripts -->
+    <!-- jQuery library hosted on CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- or local version of jQuery library -->
+    <!-- <script>window.jQuery || document.write('<script src="./js/vendor/jquery.min.js"><\/script>')</script> -->
+
+    <!-- Plugin for lazyloading images -->
+    <script src="./js/plugins/lazyload.min.js"></script>
+
+    <!-- Bootstrap Scripts -->
+    <script src="./js/vendor/tether.min.js"></script>
+    <script src="./js/vendor/bootstrap.min.js"></script>
+
+    <!-- Main JavaScript file -->
+    <script src="./js/main.min.js"></script>
+
+    {% if jekyll.environment == "production" %}
+       {% include ga.html %}
+    {% endif %}
