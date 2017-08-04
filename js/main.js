@@ -105,6 +105,16 @@ var contactForm = function contactForm() {
       formInputs.forEach(function (formInput) {
         formInput.style.background = 'transparent';
       });
+
+      // Record conversion
+      switch($this.id) {
+        case 'formHero': 
+          goog_report_conversion('TcBOCIjk3XMQpqSx3wM');
+          break;
+        case 'formContact': 
+          goog_report_conversion('OBQICJTk3XMQpqSx3wM');
+      }
+
     }).fail(function (data) {
       e.preventDefault();
 
