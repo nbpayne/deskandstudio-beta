@@ -34,6 +34,8 @@
     </script>
   {% else %}
     <script type="text/javascript">
-      goog_report_conversion = function(conversion_label) { };
+      goog_report_conversion = function(conversion_label) {
+        console.log(conversion_label);
+      };
     </script>
   {% endif %}
