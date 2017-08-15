@@ -1067,12 +1067,12 @@ textarea:focus,
 }
 
 .hero--image {
-  background-image: url(../images/bcgs/hero.jpg);
+  background-image: url(../images/bcgs/hero.webp);
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .hero--image {
-    background-image: url(../images/bcgs/hero--@2.jpg);
+    background-image: url(../images/bcgs/hero--@2.webp);
   }
 }
 
