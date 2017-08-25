@@ -1,9 +1,11 @@
 ---
-layout: subpage
+layout: page
 ---
 # Impress your clients
 
 ## Professional meeting room for freelancers
+
+---
 
 Tired of meeting clients at cafes?
 {: .lead }
@@ -25,12 +27,14 @@ If you need short-time hire of a meeting room in Camperdown, look no further tha
 - Kitchenette with fridge, kettle, toaster and coffee &amp; tea facilities
 - 15 minutes from Sydney by bus
 
-#### We also have co-working desks
+### We also have co-working desks
 
-We don’t just have meeting rooms, we are also a co-working space for creatives. ‘Deskies’ get access to the meeting room and studio <link to page 2> (subject to availability). We also provide secure lockers for your equipment if you take a weekly or permanent desk. 
+---
 
-If you’re a budding freelancer looking to join a co-working space for creatives, Desk &amp; Studio has great plans <link to page 6> to suit every option.
+We don’t just have meeting rooms, we are also a co-working space for creatives. ‘Deskies’ get access to the meeting room and [studio](/studio.html) (subject to availability). We also provide secure lockers for your equipment if you take a weekly or permanent desk. 
 
-##### Need to book a meeting room pronto?
+If you’re a budding freelancer looking to join a co-working space for creatives, Desk &amp; Studio has great [plans](/plans.html) to suit every option.
+
+#### Need to book a meeting room pronto?
 
 Use our online booking form <link to page 7> or call XXX 

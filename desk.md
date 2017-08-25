@@ -1,8 +1,11 @@
 ---
-layout: subpage
+layout: page
 ---
-# Outgrown WFH*?
+# Outgrown WFH[*](#WFH){: .js-nav.js-top }?
+
 ## Hire a desk, get so much more
+
+---
 
 I know your challenge – working from home can start to wear thin! It’s hard staying focused on your projects when the kids/cat/washing up keep intruding on your thoughts!
 {: .lead }
@@ -15,9 +18,11 @@ Every desk comes equipped with lockable drawers and filing cabinet, as well as a
 
 High ceilings, with a retro tiled floor, Desk &amp; Studio is a flexible space that can be used for anything from workshops to project collaboration, solo entrepreneurship, seminars and photo shoots.
 
-*Working from home
+<dfn id="WFH">*Working from home</dfn>
 
 ### What do ‘Deskies’ get?
+
+---
 
 Our residents, affectionately called ‘Deskies’ get an all-inclusive range of facilities. That’s what makes Desk &amp; Studio unique. 
 
@@ -26,7 +31,7 @@ Once you book a desk, you’re in! Aside from the personal concierge service, su
 - XX m2 (XX by XX m) open space, shared with co-Deskies
 - 1 awesome desk and chair, which includes lockable drawers and filing cabinet
 - Standing desk – shared layout space for creativity, samples, presentations
-- Studio space <link to page 3>
+- [Studio space](/studio.html)
 - Unlimited Internet via ADSL2+ WiFi (15MB/s downstream, 1MB/s upstream)
 - Lockable storage areas for equipment
 - Black and white/colour printing (fair use policy applies)
@@ -36,13 +41,15 @@ Once you book a desk, you’re in! Aside from the personal concierge service, su
 - 24-hour access (for permanent Deskies, access after hours by appointment for hot Deskies)
 - Fully equipped kitchenette with fridge, microwave, sink, tea/coffee, basic flatware and cutlery
 - Weekly cleaning
-- Support community <link to page 6> – share the space with other creatives, refer work to each other and be inspired
+- [Support community](/community.html) – share the space with other creatives, refer work to each other and be inspired
 - Unisex toilets
 - 15 minutes from Sydney by bus
 
 There are three types of Deskies&hellip; which one will you be?
 
 ### Hot-desk Deskie
+
+---
 
 New to the co-working caper? Not sure you’re ready for commitment? It doesn’t matter, you still get a succulent! Dip your toe into the creative waters with a daily rate:
 
@@ -54,6 +61,8 @@ New to the co-working caper? Not sure you’re ready for commitment? It doesn’
 
 ### Weekly Deskie
 
+---
+
 Expanding your solo business, or making the transition out of standard working life and only need a desk on a weekly basis while you ramp up? Awesome, we’re super jealous! You need the Desk &amp; Studio weekly option:
 
 - Get a designated desk (after hours by arrangement)
@@ -62,6 +71,8 @@ Expanding your solo business, or making the transition out of standard working l
 - Access to studio and conference room included (subject to availability)
 
 ### Dedicated Deskie
+
+---
 
 Are your solo business efforts paying off, and you’re now looking for a permanent work space? Do you want to be part of an awesome collaborative, creative community? We can’t wait to meet you, go-getter! You should check out our dedicated Deskie option:
 
@@ -72,5 +83,5 @@ Are your solo business efforts paying off, and you’re now looking for a perman
 
 ##### Ready to be a Deskie?
 
-Book today. Be a ‘Deskie’ tomorrow. It’s that simple! <link to page 7>
+Book today. Be a ‘Deskie’ tomorrow. It’s that simple!
 

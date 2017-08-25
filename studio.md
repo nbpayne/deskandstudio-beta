@@ -1,9 +1,11 @@
 ---
-layout: subpage
+layout: page
 ---
 # Looking for a Sydney photography studio or want to rent a studio in Sydney?
 
 ## Flexible photo studio hire in sydney’s inner west
+
+---
 
 Our studio space is a boutique, yet versatile space suited to simple shoots such as portraits, product shoots, and to-camera video pieces.
 {: .lead }
@@ -15,6 +17,8 @@ Our location is convenient and easy to find &ndash; a short drive or bus trip fr
 The studio can be hired for a full day, or just half a day. 
 
 ### The space
+
+---
 
 Small, but versatile featuring natural light and loads of character. The studio is located in a warehouse space with exposed roof areas that gives the space an industrial feel. 
 
@@ -32,6 +36,8 @@ The studio is painted white with light floor tiles, allowing for beautiful natur
 
 ### Equipment
 
+---
+
 The studio has a number of equipment options available, including:
 
 - Red velvet curtains &ndash; for a dramatic backdrop
@@ -44,6 +50,8 @@ The studio has a number of equipment options available, including:
 
 ### Investing in the future
 
+---
+
 The studio is constantly undergoing upgrades &ndash; future plans include adding:
 
 - Green room/change room remodelling
@@ -52,15 +60,21 @@ The studio is constantly undergoing upgrades &ndash; future plans include adding
 - Light shapers
 - Muslin backdrops &ndash; grey and white
 
-#### Floor plan
+### Floor plan
 
+---
+
+```
 add image of floor plan with following inclusions
 Ceiling height: 3.7m
 Multiple shooting surface options
 False flooring options
 Configure the space to your needs
+```
 
-#### How to book studio time
+### How to book studio time
+
+---
 
 Simply fill out the contact form <link to page 7> with your preferred dates and we will schedule it on the calendar. 
 
@@ -74,14 +88,19 @@ Cancellation policy
 Concessions
 : Concession rates are available for student shoots &ndash; get in touch with your details.<link to page 7>
  
-#### Secure lockers for co-working Deskies
+### Secure lockers for co-working Deskies
 
-We have secure lockers for your equipment if you are a Deskie <link to page 1>. If you’re a budding photographer looking to join a co-working space for creatives, Desk &amp; Studio has great plans <link to page 6> to suit every option.
+---
 
-#### Location
+We have secure lockers for your equipment if you are a [Deskie](/desk.html). If you’re a budding photographer looking to join a co-working space for creatives, Desk &amp; Studio has great [plans]
+(/plans.html) to suit every option.
+
+### Location
+
+---
 
 The studio is a few hundred metres from bus stops along Parramatta Road at Camperdown. We’re super accessible by bus or car. Street parking is available however it’s mostly 1-2P. 
 
-##### Ready to book your next photo shoot?
+#### Ready to book your next photo shoot?
 
-Get in touch <link to page 7 or online booking form when ready>
+Get in touch.
