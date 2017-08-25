@@ -12,9 +12,13 @@ It’s a hive of creativity surrounding Desk &amp; Studio! Perfect for freelance
 
 Our open environment creates the perfect conditions to creatives to thrive in collaboration with each other. However we’re also small enough for quiet, focused work.
 
-### Camperdown Creative Collective [note: add photos for each of these places]
+### Camperdown Creative Collective
 
 ---
+
+```
+Note: add photos for each of these places
+```
 
 Vienna People
 : Need a recording studio? Vienna People is a production house right around the corner in Annandale, Sydney.
