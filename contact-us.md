@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /contact-us/
 ---
 
 # We love succulents

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /studio/
 ---
 # Looking for a Sydney photography studio or want to rent a studio in Sydney?
 

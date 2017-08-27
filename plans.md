@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /plans/
 ---
 
 # A co-working price to suit every wallet

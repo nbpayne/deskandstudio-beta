@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /community/
 ---
 
 # You’re in good company

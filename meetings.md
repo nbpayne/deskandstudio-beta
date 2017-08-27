@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /meetings/
 ---
 # Impress your clients
 
