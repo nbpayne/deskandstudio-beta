@@ -1,5 +1,7 @@
 ---
 layout: page
+title: 
+permalink: /desk/
 ---
 # Outgrown WFH[*](#WFH){: .js-nav.js-top }?
 
@@ -28,11 +30,11 @@ Our residents, affectionately called ‘Deskies’ get an all-inclusive range of
 
 Once you book a desk, you’re in! Aside from the personal concierge service, succulent and coffee mug, all Deskies get the following inclusions:
 
-- XX m2 (XX by XX m) open space, shared with co-Deskies
+- 28m<sup>2</sup> (7m by 4m) open space, shared with co-Deskies
 - 1 awesome desk and chair, which includes lockable drawers and filing cabinet
 - Standing desk – shared layout space for creativity, samples, presentations
-- [Studio space](/studio.html)
-- Unlimited Internet via ADSL2+ WiFi (15MB/s downstream, 1MB/s upstream)
+- [Studio space](/studio/)
+- Unlimited Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
 - Lockable storage areas for equipment
 - Black and white/colour printing (fair use policy applies)
 - Discounted rates for Desk &amp; Studio workshops and seminars
@@ -41,7 +43,7 @@ Once you book a desk, you’re in! Aside from the personal concierge service, su
 - 24-hour access (for permanent Deskies, access after hours by appointment for hot Deskies)
 - Fully equipped kitchenette with fridge, microwave, sink, tea/coffee, basic flatware and cutlery
 - Weekly cleaning
-- [Support community](/community.html) – share the space with other creatives, refer work to each other and be inspired
+- [Support community](/community/) – share the space with other creatives, refer work to each other and be inspired
 - Unisex toilets
 - 15 minutes from Sydney by bus
 

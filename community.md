@@ -23,28 +23,28 @@ Note: add photos for each of these places
 Vienna People
 : Need a recording studio? Vienna People is a production house right around the corner in Annandale, Sydney.
 
-  [viennapeople.com](http://viennapeople.com/)
+  [viennapeople.com](http://viennapeople.com/){: target="_blank" }
 
 Wayward Brewing
 : One of our favourite places to get creative! Brilliant microbrewery and a great space near Desk &amp; studio for creatives to whet their whistle and recharge.
 
-  [www.waywardbrewing.com.au](http://www.waywardbrewing.com.au/)
+  [www.waywardbrewing.com.au](http://www.waywardbrewing.com.au/){: target="_blank" }
 
 Grumpy Donuts
 : The sweetest temptation&hellip; Sydney's finest hand crafted donuts, now open in Camperdown!
 
-  [www.grumpydonuts.com](http://www.grumpydonuts.com/)
+  [www.grumpydonuts.com](http://www.grumpydonuts.com/){: target="_blank" }
 
 Nomad Bouldering
 : Need to balance mind with body? Get a total body workout at this climbing gym &ndash; and get your creative ju-ju flowing again!
 
-  [www.nomadbouldering.com](http://www.nomadbouldering.com/)
+  [www.nomadbouldering.com](http://www.nomadbouldering.com/){: target="_blank" }
 
 The Newsagency
 : Co-located with Desk &amp; Studio, The Newsagency is Sydney’s cosiest music venue.
 
-  [www.thenewsagencyvenue.com](http://www.thenewsagencyvenue.com/)
+  [www.thenewsagencyvenue.com](http://www.thenewsagencyvenue.com/){: target="_blank" }
 
 #### Want to see your business name here?
 
-[Join the collective!](/contact-us.html)
+[Join the collective!](/contact-us/)

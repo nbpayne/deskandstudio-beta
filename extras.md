@@ -30,10 +30,10 @@ Our concierge services will make you and your guests feel right at home.
 
 **Inclusions:**
 
-- Internet via ADSL2+ WiFi (15MB/s downstream, 1MB/s upstream)
-- Seating for XX theatre style or XX cocktail style
+- Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
+- Seating for 100 theatre style or 150 cocktail style
 - Whiteboard
-- Water/Tea &amp; Coffee
+- Water/Tea and Coffee
 - Unisex toilets
 - Catering is available from nearby cafes or you can BYO 
 - 15 minutes from Sydney by bus
@@ -50,8 +50,8 @@ Our flexible event space is available for hire during the evenings after 6pm and
 
 - Platform stage (add dimensions)
 - AV equipment including microphones
-- Seating for XX theatre style or XX cocktail style
-- Internet via ADSL2+ WiFi (15MB/s downstream, 1MB/s upstream)
+- Seating for 100 theatre style or 150 cocktail style
+- Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
 - Unisex toilets
 - Water/Tea &amp; Coffee
 - Catering available from neighbouring cafes
@@ -67,5 +67,5 @@ Our flexible event space is available for hire during the evenings after 6pm and
 
 #### Make your event memorable
 
-Tell us what you need for your next function using our [online form](/contact-us.html) or call XXX 
+Tell us what you need for your next function using our [online form](/contact-us/) or call XXX 
 
