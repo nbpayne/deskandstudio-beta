@@ -32,8 +32,8 @@ Once you book a desk, you’re in! Aside from the personal concierge service, su
 
 - 28m<sup>2</sup> (7m by 4m) open space, shared with co-Deskies
 - 1 awesome desk and chair, which includes lockable drawers and filing cabinet
-- Standing desk – shared layout space for creativity, samples, presentations
-- [Studio space](/studio/)
+- Option of a standing desk -- shared layout space for creativity, samples, presentations
+- Access to [Studio space](/studio/)
 - Unlimited Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
 - Lockable storage areas for equipment
 - Black and white/colour printing (fair use policy applies)

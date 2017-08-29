@@ -99,7 +99,7 @@ We have secure lockers for your equipment if you are a [Deskie](/desk/). If you�
 
 ---
 
-The studio is a few hundred metres from bus stops along Parramatta Road at Camperdown. We’re super accessible by bus or car. Street parking is available however it’s mostly 1-2P. 
+The studio is a few hundred metres from bus stops along Parramatta Road at Camperdown. We’re super accessible by bus or car. Street parking is available however it’s mostly 2 hour and some non-restricted in the side streets.
 
 #### Ready to book your next photo shoot?
 
