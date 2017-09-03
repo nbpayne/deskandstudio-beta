@@ -1,34 +1,25 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Desk and Studio creative co-working space in Annandale, Sydney
+title: Desk & Studio
 email: www@deskandstudio.com
-description: > # this means to ignore newlines until "baseurl:"
-  A co-working space for creatives. This is not just a &lquot;desk for hire&rquot; on a daily, weekly or monthly basis. 
-  This is a space created for the photographer or graphic designer (or even accountant!) working from home who needs a 
-  professional space to get out of the home office.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.deskandstudio.com" # the base hostname & protocol for your site, e.g. http://example.com
-
+description: > 
+  Get out of the home office and unlock your creative potential. Co-working 
+  space from $75 per day plus studio/conference facilities. Phone (0438) 698 924.
+baseurl: 
+url: http://beta.deskandstudio.com
+twitter:
+  username: deskandstudio
 
 # Build settings
 markdown: kramdown
-# theme: minima
-gems:
-  - jekyll-feed
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 exclude:
+  - bower_components
+  - bower.json
   - Gemfile
   - Gemfile.lock
-show_dir_listing: false
+  - gulpfile.js
+  - node_modules
+  - package.json
+  - README.md
+  - yarn.lock

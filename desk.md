@@ -1,12 +1,10 @@
 ---
-layout: page
-title: 
+layout: default
+title: Shared desk space available in Sydney’s inner west
+description: Hot desks and permanent desks with shared studio and meeting facilities suitable for creatives, small business owners and freelancers. Phone (0438) 698 924
+heading: Outgrown WFH*
+subheading: Hire a desk, get so much more
 permalink: /desk/
----
-# Outgrown WFH[*](#WFH){: .js-nav.js-top }?
-
-## Hire a desk, get so much more
-
 ---
 
 I know your challenge -- working from home can start to wear thin! It’s hard staying focused on your projects when the kids/cat/washing up keep intruding on your thoughts!
@@ -83,7 +81,7 @@ Are your solo business efforts paying off, and you’re now looking for a perman
 - Choose your own desk
 - Most cost effective co-working plan, studio and conference room included (subject to availability)
 
-##### Ready to be a Deskie?
+#### Ready to be a Deskie?
 
-Book today. Be a 'Deskie' tomorrow. It’s that simple!
+[Book today. Be a 'Deskie' tomorrow. It’s that simple!]({{ site.baseurl }}/contact/)
 

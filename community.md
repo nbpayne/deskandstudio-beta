@@ -1,15 +1,14 @@
 ---
-layout: page
+layout: default
+title: Join the Creative Collective in Camperdown
+description: Like-minded creative businesses located in the Camperdown area, Sydney. Get inspired by collective collaboration. Call (0438) 698 924.
+heading: You’re in good company
+subheading: Join the camperdown creative collective
 permalink: /community/
 ---
 
-# You’re in good company
-        
-## Join the camperdown creative collective
-
----
-
 It’s a hive of creativity surrounding Desk &amp; Studio! Perfect for freelancers in creative jobs who need access to support services or simply an inspiring place to unwind or work out. Join our collective of successful creative businesses located in the Camperdown area, the heart of Sydney’s inner west.
+{: .lead }
 
 Our open environment creates the perfect conditions to creatives to thrive in collaboration with each other. However we’re also small enough for quiet, focused work.
 
@@ -17,9 +16,9 @@ Our open environment creates the perfect conditions to creatives to thrive in co
 
 ---
 
-```
+{::comment}
 Note: add photos for each of these places
-```
+{:/comment}
 
 Vienna People
 : Need a recording studio? Vienna People is a production house right around the corner in Annandale, Sydney.
@@ -48,4 +47,4 @@ The Newsagency
 
 #### Want to see your business name here?
 
-[Join the collective!](/contact-us/)
+[Join the collective!]({{ site.baseurl }}/contact/)

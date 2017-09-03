@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
+title: Photography studio hire -- co-working for creatives
+description: Photography studio and co-working space for creatives in Annandale, Sydney
+heading: Looking for a Sydney photography studio or want to rent a studio in Sydney?
+subheading: Flexible photo studio hire in sydney’s inner west
 permalink: /studio/
----
-# Looking for a Sydney photography studio or want to rent a studio in Sydney?
-
-## Flexible photo studio hire in sydney’s inner west
-
 ---
 
 Our studio space is a boutique, yet versatile space suited to simple shoots such as portraits, product shoots, and to-camera video pieces.
@@ -61,6 +60,7 @@ The studio is constantly undergoing upgrades -- future plans include adding:
 - Light shapers
 - Muslin backdrops -- grey and white
 
+{::comment}
 ### Floor plan
 
 ---
@@ -72,12 +72,13 @@ Multiple shooting surface options
 False flooring options
 Configure the space to your needs
 ```
+{:/comment}
 
 ### How to book studio time
 
 ---
 
-Simply fill out the contact form <link to page 7> with your preferred dates and we will schedule it on the calendar. 
+Simply fill out the [contact form]({{ site.baseurl}}/contact/) with your preferred dates and we will schedule it on the calendar. 
 
 Hold policy
 : We can hold dates up to 5 working days -- any longer and we reserve the right to give the date to someone else. 
@@ -87,7 +88,7 @@ Cancellation policy
 : Similarly, moving your shoot date shoot date is free given more than 72 hours notice. Otherwise, a $25 admin fee will apply.
   
 Concessions
-: Concession rates are available for student shoots -- get in touch with your details.<link to page 7>
+: Concession rates are available for student shoots -- [get in touch with your details]({{ site.baseurl }}/contact/).
  
 ### Secure lockers for co-working Deskies
 
@@ -103,4 +104,4 @@ The studio is a few hundred metres from bus stops along Parramatta Road at Campe
 
 #### Ready to book your next photo shoot?
 
-Get in touch.
+[Get in touch.]({{ site.baseurl }}/contact/)

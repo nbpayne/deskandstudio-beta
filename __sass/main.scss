@@ -1,0 +1,264 @@
+// Variables
+@import 'bower_components/bootstrap/scss/functions';
+@import 'vendor/variables';
+@import 'bower_components/bootstrap/scss/mixins/_breakpoints.scss';
+
+// -- ELEMENTS --
+
+h1 {
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+}
+
+h2, h3, h4 {
+  margin-top: 3rem;
+}
+
+hr {
+  border-bottom: 2px solid #88B04B;
+  border-top: none;
+  margin-bottom: 1.5rem;
+  margin-left: 0;
+  margin-top: 1.5rem;
+  max-width: 4rem;
+}
+
+// -- LAYOUTS ---
+// Navigation
+.navbar {
+  background-color: #fff;
+  box-shadow: 0 2px 40px 0 rgba(0,0,0,.08);
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.navbar-brand {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.navbar-logo {
+  height: 35px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-size: .875rem;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+  color: theme-color('primary');
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #88B04B;
+}
+
+@include media-breakpoint-up(md) {
+  .navbar-light .navbar-nav .nav-link {
+    border-bottom: 2px solid #fff;
+    padding: 21px 1.125rem;
+  }
+  .navbar-light .navbar-nav .nav-link:hover {
+    border-bottom-color: #88B04B;
+    color: #88B04B;
+  }
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
+
+// Main
+main {
+  min-height: 360px;
+}
+
+// Footer
+footer {
+  background-color: theme-color('dark');
+  color: theme-color('light');
+  font-size: .875rem;
+  margin-top: 3rem;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
+
+@include media-breakpoint-up(md) {
+  footer {
+    padding-bottom: 3rem;
+    padding-top: 4rem;
+  }
+}
+
+footer .social-links {
+  font-size: 1.25rem;
+  justify-content: center;
+  // list-style-type: none;
+  // padding-left: 0;
+  // text-align: center;
+}
+
+// .social-links .fa {
+  // width: 20px;
+// }
+
+@include media-breakpoint-up(md) {
+  footer .social-links {
+    justify-content: flex-end;
+    //text-align: left;
+  }
+
+  footer .social-links+p {
+    text-align: right;
+  }
+}
+
+// -- COMPONENTS --
+// Buttons
+.btn-primary {
+  color: #fff;
+}
+
+// Cards
+.card {
+  margin-bottom: 1rem;
+}
+
+.card h4 {
+  margin-top: 0;
+}
+
+// Forms
+legend {
+  font-size: 1rem;
+}
+
+// Jumbotron
+.jumbotron {
+  background-image: url(/images/heros/home-sm.webp);
+  background-position: center;
+  color: #fff;
+  height: 575px;
+  margin-bottom: 2rem;
+}
+
+.community .jumbotron {
+  background-image: url(/images/heros/community-sm.webp);
+}
+
+.contact .jumbotron {
+  background-image: url(/images/heros/contact-sm.webp);
+}
+
+.desk .jumbotron {
+  background-image: url(/images/heros/desk-sm.webp);
+}
+
+.extras .jumbotron {
+  background-image: url(/images/heros/extras-sm.webp);
+}
+
+.meetings .jumbotron {
+  background-image: url(/images/heros/meetings-sm.webp);
+}
+
+.plans .jumbotron {
+  background-image: url(/images/heros/plans-sm.webp);
+}
+
+.studio .jumbotron {
+  background-image: url(/images/heros/studio-sm.webp);
+}
+
+.thanks .jumbotron {
+  background-image: url(/images/heros/thanks-sm.webp);
+}
+
+@include media-breakpoint-up(md) {
+  .jumbotron {
+    background-image: url(/images/heros/home-md.webp);
+    height: 600px;
+  }
+
+  .community .jumbotron {
+    background-image: url(/images/heros/community-md.webp);
+  }
+
+  .contact .jumbotron {
+    background-image: url(/images/heros/contact-md.webp);
+  }
+
+  .desk .jumbotron {
+    background-image: url(/images/heros/desk-md.webp);
+  }
+
+  .extras .jumbotron {
+    background-image: url(/images/heros/extras-md.webp);
+  }
+
+  .meetings .jumbotron {
+    background-image: url(/images/heros/meetings-md.webp);
+  }
+
+  .plans .jumbotron {
+    background-image: url(/images/heros/plans-md.webp);
+  }
+
+  .studio .jumbotron {
+    background-image: url(/images/heros/studio-md.webp);
+  }
+
+  .thanks .jumbotron {
+    background-image: url(/images/heros/thanks-md.webp);
+  }
+}
+
+.jumbotron .container {
+  height: 100%;
+  position: relative;
+}
+
+
+.jumbotron .container .positioner {
+  bottom: 1rem;
+  position: absolute;
+}
+
+@include media-breakpoint-up(md) {
+  .jumbotron .container .positioner {
+    bottom: 4rem;
+    left: 4rem;
+    right: 4rem;
+  }
+}
+
+.jumbotron h1,
+.jumbotron h2 {
+  line-height: 1.2;
+  margin: 1rem;
+}
+
+@include media-breakpoint-up(md) {
+  .jumbotron h1 {
+    font-size: 4rem;
+  }
+}
+
+.jumbotron h1 span,
+.jumbotron h2 span {
+  background-color: theme-color('dark');
+}
+
+// Social links
+.thanks .social-links {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.thanks .social-links .fa {
+  width: 2rem;
+}

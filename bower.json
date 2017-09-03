@@ -1,0 +1,21 @@
+{
+  "name": "deskandstudio",
+  "description": "Desk and Studio website",
+  "main": "",
+  "authors": [
+    "Nick Payne <nick@nickpayne.net>"
+  ],
+  "license": "All rights reserved",
+  "homepage": "http://www.deskandstudio.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {}
+}
