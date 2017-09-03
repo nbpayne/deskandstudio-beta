@@ -1,7 +1,8 @@
 ---
 layout: default
+nav: Studio
 title: Photography studio hire -- co-working for creatives
-description: Photography studio and co-working space for creatives in Annandale, Sydney
+description: Photography studio and co-working space for creatives in Annandale, Sydney.
 heading: Looking for a Sydney photography studio or want to rent a studio in Sydney?
 subheading: Flexible photo studio hire in sydney’s inner west
 permalink: /studio/

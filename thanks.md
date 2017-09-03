@@ -5,6 +5,7 @@ description: Find out how to contact Desk & Studio. Questions? Call Lyn Taylor o
 heading: Thanks!
 subheading: Our minions are busy delivering your message&hellip; in the meantime why not admire our greenery.
 permalink: /thanks/
+sitemap: false
 ---
 
 If you just can’t wait and want to get in touch with Lyn right away, call [(0438) 698 924](tel:0438698924).
