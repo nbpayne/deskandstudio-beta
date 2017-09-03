@@ -5,7 +5,8 @@
     <script src="/js/app.min.js"></script>
     <!--
     Repository name: {{ site.github.repository_name }}
-    Environment: {{ site.github.environment }}
+    Jekyll environment: {{ jekyll.environment }}
+    Github environment: {{ site.github.environment }}
     Pages environment: {{ site.github.pages_env }}
     Build revision: {{ site.github.build_revision }}
     PRD+WWW: {% if jekyll.environment == "production" and site.github.repository_name == 'deskandstudio' %}true{% else %}false{% endif %}
