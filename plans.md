@@ -8,7 +8,7 @@ permalink: /plans/
 ---
 
 Whether you need a desk for the day, the week, or permanent residency in a creative Sydney co-working space, we have the option to suit you.
-
+{: .lead }
 
 We’ve deliberately kept things simple – many co-working spaces in Sydney seem cheap, but when you add studio and meeting room prices things start to add up&hellip;
 
