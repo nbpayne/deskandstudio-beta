@@ -139,7 +139,7 @@ legend {
 
 // Jumbotron
 .jumbotron {
-  background-image: url(/images/heros/home-sm.webp);
+  background-image: url(/images/heros/home-sm.jpg);
   background-position: center;
   color: #fff;
   height: 575px;
@@ -147,73 +147,73 @@ legend {
 }
 
 .community .jumbotron {
-  background-image: url(/images/heros/community-sm.webp);
+  background-image: url(/images/heros/community-sm.jpg);
 }
 
 .contact .jumbotron {
-  background-image: url(/images/heros/contact-sm.webp);
+  background-image: url(/images/heros/contact-sm.jpg);
 }
 
 .desk .jumbotron {
-  background-image: url(/images/heros/desk-sm.webp);
+  background-image: url(/images/heros/desk-sm.jpg);
 }
 
 .extras .jumbotron {
-  background-image: url(/images/heros/extras-sm.webp);
+  background-image: url(/images/heros/extras-sm.jpg);
 }
 
 .meetings .jumbotron {
-  background-image: url(/images/heros/meetings-sm.webp);
+  background-image: url(/images/heros/meetings-sm.jpg);
 }
 
 .plans .jumbotron {
-  background-image: url(/images/heros/plans-sm.webp);
+  background-image: url(/images/heros/plans-sm.jpg);
 }
 
 .studio .jumbotron {
-  background-image: url(/images/heros/studio-sm.webp);
+  background-image: url(/images/heros/studio-sm.jpg);
 }
 
 .thanks .jumbotron {
-  background-image: url(/images/heros/thanks-sm.webp);
+  background-image: url(/images/heros/thanks-sm.jpg);
 }
 
 @include media-breakpoint-up(md) {
   .jumbotron {
-    background-image: url(/images/heros/home-md.webp);
+    background-image: url(/images/heros/home-md.jpg);
     height: 600px;
   }
 
   .community .jumbotron {
-    background-image: url(/images/heros/community-md.webp);
+    background-image: url(/images/heros/community-md.jpg);
   }
 
   .contact .jumbotron {
-    background-image: url(/images/heros/contact-md.webp);
+    background-image: url(/images/heros/contact-md.jpg);
   }
 
   .desk .jumbotron {
-    background-image: url(/images/heros/desk-md.webp);
+    background-image: url(/images/heros/desk-md.jpg);
   }
 
   .extras .jumbotron {
-    background-image: url(/images/heros/extras-md.webp);
+    background-image: url(/images/heros/extras-md.jpg);
   }
 
   .meetings .jumbotron {
-    background-image: url(/images/heros/meetings-md.webp);
+    background-image: url(/images/heros/meetings-md.jpg);
   }
 
   .plans .jumbotron {
-    background-image: url(/images/heros/plans-md.webp);
+    background-image: url(/images/heros/plans-md.jpg);
   }
 
   .studio .jumbotron {
-    background-image: url(/images/heros/studio-md.webp);
+    background-image: url(/images/heros/studio-md.jpg);
   }
 
   .thanks .jumbotron {
-    background-image: url(/images/heros/thanks-md.webp);
+    background-image: url(/images/heros/thanks-md.jpg);
   }
 }
 

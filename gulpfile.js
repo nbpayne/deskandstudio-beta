@@ -3,6 +3,7 @@ var child = require('child_process');
 var csslint = require('gulp-csslint');
 var cssnano = require('gulp-cssnano');
 var del = require('del');
+var gm = require('gulp-gm');
 var gulpif = require('gulp-if');
 // var imagemin = require('gulp-imagemin');
 var gutil = require('gulp-util');
@@ -18,7 +19,7 @@ var sourcemaps = require('gulp-sourcemaps');
 var stylish = require('csslint-stylish');
 var uglify = require('gulp-uglify');
 var useref = require('gulp-useref');
-var webp = require('gulp-webp');
+// var webp = require('gulp-webp');
 var wiredep = require('wiredep').stream;
 
 // Clean out files
@@ -99,7 +100,10 @@ gulp.task('js', function () {
 // Convert images to webp
 gulp.task('images', function () {
   gulp.src('images/**/*.png')
-    .pipe(webp())
+    .pipe(gm(function (gmfile) {
+      return gmfile.setFormat('jpg');
+    }))
+    // .pipe(webp())
     .pipe(gulp.dest('images'))
 })
 
