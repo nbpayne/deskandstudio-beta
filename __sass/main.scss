@@ -254,7 +254,7 @@ legend {
 
 .jumbotron h1 span,
 .jumbotron h2 span {
-  background-color: theme-color('dark');
+  background-color: rgba(theme-color('dark'), .75);
 }
 
 // Social links
