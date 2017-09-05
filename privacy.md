@@ -5,9 +5,8 @@ heading: Privacy Policy
 subheading: We care about your private information
 permalink: /privacy/
 sitemap: false
+published: true
 ---
-
-- Updated September, 2017
 
 This following document sets forth the Privacy Policy for the *Desk and Studio* website, [http://www.deskandstudio.com](http://www.deskandstudio.com).
 {: .lead }
@@ -41,3 +40,5 @@ You have a right to access your personal information, subject to exceptions allo
 *Desk and Studio* welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us by any of the following means during business hours Monday to Friday.
 
 E-mail: [privacy@deskandstudio.com](mailto:privacy@deskandstudio.com)
+
+- Updated September, 2017
