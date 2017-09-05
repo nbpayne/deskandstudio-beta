@@ -6,9 +6,11 @@ description: Website Terms and Conditions.
 heading: Website Terms and Conditions
 subheading: Please take the time to read these terms and conditions.
 permalink: /terms/
+published: true
 ---
 
 By using Our Website and the Services and information offered on Our Website, you are agreeing to these terms and conditions.
+{: .lead }
 
 If you purchase products through our Website, there will be additional terms and conditions relating to the purchase. Please make sure you agree with these term and conditions, which you will be directed to read prior to making your purchase.
 
