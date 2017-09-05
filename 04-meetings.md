@@ -13,7 +13,7 @@ Tired of meeting clients at cafes?
 
 Whether you’re a freelancer who needs to project a more professional image, or a small business owner expanding, our beautiful creative space is perfect for face-to-face meetings, small workshops and brainstorming sessions.
 
-If you need short-time hire of a meeting room in Camperdown, look no further than Desk &amp; Space. 
+If you need short-time hire of a meeting room in Camperdown, look no further than Desk &amp; Studio. 
 
 **Features**
 
