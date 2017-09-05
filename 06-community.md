@@ -27,7 +27,7 @@ Vienna People
   [viennapeople.com](http://viennapeople.com/){: target="_blank" }
 
 Wayward Brewing
-: One of our favourite places to get creative! Brilliant microbrewery and a great space near Desk &amp; studio for creatives to whet their whistle and recharge.
+: One of our favourite places to get creative! Brilliant microbrewery and a great space near Desk &amp; Studio for creatives to whet their whistle and recharge.
 
   [www.waywardbrewing.com.au](http://www.waywardbrewing.com.au/){: target="_blank" }
 
