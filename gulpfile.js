@@ -19,7 +19,7 @@ var sourcemaps = require('gulp-sourcemaps');
 var stylish = require('csslint-stylish');
 var uglify = require('gulp-uglify');
 var useref = require('gulp-useref');
-// var webp = require('gulp-webp');
+var webp = require('gulp-webp');
 var wiredep = require('wiredep').stream;
 
 // Clean out files
@@ -97,15 +97,21 @@ gulp.task('js', function () {
     .pipe(gulpif('*.html', gulp.dest('_includes')));
 });
 
-// Convert images to webp
+// Convert images to jpg, and webp
 gulp.task('images', function () {
-  gulp.src('images/**/*.png')
-    .pipe(gm(function (gmfile) {
-      return gmfile.setFormat('jpg');
-    }))
-    // .pipe(webp())
-    .pipe(gulp.dest('images'))
-})
+  return merge(
+    // Convert images to jpg
+    gulp.src('images/!(favicon|logos)/*.png')
+      .pipe(gm(function (gmfile) {
+        return gmfile.setFormat('jpg');
+      }))
+      .pipe(gulp.dest('images')),
+    // Convert images to webp
+    gulp.src('images/!(favicon|logos)/*.png')
+      .pipe(webp({ preset: 'photo' }))
+      .pipe(gulp.dest('images'))
+  );
+});
 
 // Watch for file changes
 gulp.task('watch', function () {
