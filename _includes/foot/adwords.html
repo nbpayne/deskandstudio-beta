@@ -1,0 +1,60 @@
+
+  {% if jekyll.environment == 'production' and site.github.repository_name == 'deskandstudio' %}
+    <!-- Google Code for Add to Cart Conversion Page
+    In your html page, add the snippet and call goog_report_conversion
+    when someone clicks on the chosen link or button. -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    goog_snippet_vars = function() {
+      var w = window;
+      w.google_conversion_id = 1005343270;
+      w.google_conversion_language = "en";
+      w.google_conversion_format = "3";
+      w.google_conversion_color = "ffffff";
+      w.google_remarketing_only = false;
+    }
+    // DO NOT CHANGE THE CODE BELOW.
+    goog_report_conversion = function(conversion_label) { //, url) {
+      goog_snippet_vars();
+      // window.google_conversion_format = "3";
+      if (typeof(conversion_label) != 'undefined') {
+        window.google_conversion_label = conversion_label;
+      } else {
+        window.google_conversion_label = "testing";
+      }
+      var opt = new Object();
+      var conv_handler = window['google_trackConversion'];
+      if (typeof(conv_handler) == 'function') {
+        conv_handler(opt);
+      }
+    }
+    /* ]]> */
+    </script>
+    <script type="text/javascript"
+    src="//www.googleadservices.com/pagead/conversion_async.js">
+    </script>
+    <!-- Google Code for Remarketing Tag -->
+    <!-- 
+    Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+    -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1005343270;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005343270/?guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+  {% else %}
+    <script type="text/javascript">
+      goog_report_conversion = function(conversion_label) {
+        console.log(conversion_label);
+      };
+    </script>
+  {% endif %}
