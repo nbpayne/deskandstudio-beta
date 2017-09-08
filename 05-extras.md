@@ -59,12 +59,14 @@ Our flexible event space is available for hire during the evenings after 6pm and
 - Kitchenette with fridge, kettle, toaster and coffee &amp; tea facilities
 - 15 minutes from Sydney by bus
 
+{% comment %}
 **Opening Special***
 
 - Up to 4 hours $XXX+ GST
 - Full day $XXX+ GST
 
 *Conditions apply. $XXXX refundable bond. Cleaning fee of $XXX may apply.
+{% endcomment %}
 
 #### Make your event memorable
 

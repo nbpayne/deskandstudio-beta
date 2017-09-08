@@ -28,6 +28,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
         <li>Laser printer facilities</li>
         <li>Kitchenette with tea &amp; coffee available</li>
       </ul>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
     </div>
   </div>
 
@@ -43,6 +44,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
         <li>Laser printer facilities</li>
         <li>Kitchenette with tea &amp; coffee available</li>
       </ul>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
     </div>
   </div>
 
@@ -58,6 +60,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
         <li>Laser printer facilities</li>
         <li>Kitchenette with tea &amp; coffee available</li>
       </ul>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
     </div>
   </div>
 
@@ -70,6 +73,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
         <li>4m wide and 4.5m deep with 3.6m high ceilings</li>
         <li>Student discounts available</li>
       </ul>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
     </div>
   </div>
 
@@ -82,6 +86,43 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
         <li>4m wide and 4.5m deep with 3.6m high ceilings</li>
         <li>Student discounts available</li>
       </ul>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
+    </div>
+  </div>
+
+  <div class="card text-center">
+    <div class="card-body">
+      <h4 class="card-title">Meeting room for a half day</h4>
+      <p class="card-text display-3">Call</p>
+      <ul class="card-text list-unstyled">
+        <li>Fast wifi</li>
+        <li>Concierge service</li>
+        <li>Laser printer facilities</li>
+        <li>Kitchenette with tea &amp; coffee available</li>
+      </ul>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
+    </div>
+  </div>
+
+  <div class="card text-center">
+    <div class="card-body">
+      <h4 class="card-title">Meeting room for a full day</h4>
+      <p class="card-text display-3">Call</p>
+      <ul class="card-text list-unstyled">
+        <li>Fast wifi</li>
+        <li>Concierge service</li>
+        <li>Laser printer facilities</li>
+        <li>Kitchenette with tea &amp; coffee available</li>
+      </ul>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
+    </div>
+  </div>
+
+  <div class="card text-center">
+    <div class="card-body">
+      <h4 class="card-title">Workshop, function, or venue hire</h4>
+      <p class="card-text display-3">Call</p>
+      <a class="btn btn-primary" href="{{ site.baseurl }}/contact/">Book now</a>
     </div>
   </div>
 
