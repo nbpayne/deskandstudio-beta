@@ -5,6 +5,7 @@ title: Terms and Conditions
 description: Website Terms and Conditions.
 heading: Website Terms and Conditions
 subheading: Please take the time to read these terms and conditions.
+image: /images/heros/home-md.jpg
 permalink: /terms/
 sitemap: false
 ---

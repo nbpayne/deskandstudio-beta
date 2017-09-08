@@ -3,6 +3,7 @@ layout: default
 title: Sitemap
 heading: Sitemap
 subheading: Find what you're looking for&hellip;
+image: /images/heros/home-md.jpg
 permalink: /sitemap/
 sitemap: false
 ---

@@ -3,9 +3,9 @@ layout: default
 title: Privacy Policy
 heading: Privacy Policy
 subheading: We care about your private information
+image: /images/heros/home-md.jpg
 permalink: /privacy/
 sitemap: false
-published: true
 ---
 
 This following document sets forth the Privacy Policy for the *Desk and Studio* website, [http://www.deskandstudio.com](http://www.deskandstudio.com).

@@ -5,6 +5,7 @@ title: Join the Creative Collective in Camperdown
 description: Like-minded creative businesses located in the Camperdown area, Sydney. Get inspired by collective collaboration. Call (0438) 698 924.
 heading: You’re in good company
 subheading: Join the camperdown creative collective
+image: /images/heros/community-md.jpg
 permalink: /community/
 ---
 

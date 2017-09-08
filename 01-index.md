@@ -5,6 +5,7 @@ title: Co-working space for creatives in Sydney
 description:  Get out of the home office and unlock your creative potential. Co-working space from $75 per day plus studio/conference facilities. Phone (0438) 698 924.
 heading: Creative co-working space
 subheading: A personal touch to flexible co-working for creatives, solopreneurs and small business owners
+image: /images/heros/home-md.jpg
 permalink: /
 ---
 
