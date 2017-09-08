@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include nav.html %}
+    {% include jumbotron.html heading=page.heading subheading=page.subheading %}
+    <div class="container">
+      <main class="row">
+        <div class="col">
+<!-- Content -->
+{{ content }}
+<!-- /Content -->
+        </div>
+      </main>
+      <aside>
+        {% include cards.html %}
+      </aside>
+    </div>
+    <footer>
+      {% include footer.html %}
+    </footer>
+    {% include foot.html %}
+  </body>
+</html>

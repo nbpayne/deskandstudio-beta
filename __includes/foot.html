@@ -1,0 +1,28 @@
+
+{% include foot/ga.html %}
+{% include foot/adwords.html %}
+{% include foot/tawk.html %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+
+    <!-- build:js /js/vendor.min.js -->
+    <!-- bower:js -->
+    <script src="../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../bower_components/popper.js/dist/umd/popper.js"></script>
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="../bower_components/vanilla-lazyload/dist/lazyload.min.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:js /js/app.min.js -->
+    <script src="../__js/main.js"></script>
+    <!-- endbuild -->
+    
+    <!--
+    Repository name: {{ site.github.repository_name }}
+    Jekyll environment: {{ jekyll.environment }}
+    Github environment: {{ site.github.environment }}
+    Pages environment: {{ site.github.pages_env }}
+    Build revision: {{ site.github.build_revision }}
+    PRD+WWW: {% if jekyll.environment == "production" and site.github.repository_name == 'deskandstudio' %}true{% else %}false{% endif %}
+    -->
