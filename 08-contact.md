@@ -5,7 +5,10 @@ title: Desk & Studio is available for hire, get in touch today!
 description: Find out how to contact Desk & Studio. Questions? Call Lyn Taylor on (0438) 698 924.
 heading: We love succulents
 subheading: Want to know more?
-image: /images/heros/contact-md.jpg
+image: 
+  path: /images/heros/contact-md.jpg
+  width: 1600
+  height: 600
 permalink: /contact/
 ---
 
