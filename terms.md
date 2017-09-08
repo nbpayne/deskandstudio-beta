@@ -6,7 +6,7 @@ description: Website Terms and Conditions.
 heading: Website Terms and Conditions
 subheading: Please take the time to read these terms and conditions.
 permalink: /terms/
-published: true
+sitemap: false
 ---
 
 By using Our Website and the Services and information offered on Our Website, you are agreeing to these terms and conditions.
