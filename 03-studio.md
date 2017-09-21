@@ -2,14 +2,15 @@
 layout: default
 nav: Studio
 title: Photography studio hire -- co-working for creatives
-description: Photography studio and co-working space for creatives in Annandale, Sydney.
+description: 'Photography studio and co-working space for creatives in Annandale, Sydney.'
 heading: Looking for a Sydney photography studio or want to rent a studio in Sydney?
 subheading: Flexible photo studio hire in sydney’s inner west
-image: 
+image:
   path: /images/heros/studio-md.jpg
   width: 1600
   height: 600
 permalink: /studio/
+published: true
 ---
 
 Our studio space is a boutique, yet versatile space suited to simple shoots such as portraits, product shoots, and to-camera video pieces.
@@ -45,13 +46,21 @@ The studio is painted white with light floor tiles, allowing for beautiful natur
 
 The studio has a number of equipment options available, including:
 
+- 2 X 1000w studio flash heads
+- Standard soft boxes
+- Umbrellas
+- Beauty dish
+- Barn doors, with coloured gels
+- 120cm octagon softbox
+- Snoot
 - Red velvet curtains -- for a dramatic backdrop
 - Black theatre curtains
-- Infinity backdrops -- white available
-- False floors -- white washed wooden packing crates for an elevated surface
+Infinity backdrops -- white, black, grey and various coloured options.
+- False floors -– white washed wooden packing crates for an elevated surface
 - Sandbags
 - Extension cables
-- A-clamps
+
+We are continually growing our equipment list, please call the studio manager if you have any additional requirements.
 
 ### Investing in the future
 
