@@ -62,18 +62,6 @@ Infinity backdrops -- white, black, grey and various coloured options.
 
 We are continually growing our equipment list, please call the studio manager if you have any additional requirements.
 
-### Investing in the future
-
----
-
-The studio is constantly undergoing upgrades -- future plans include adding:
-
-- Green room/change room remodelling
-- Light heads
-- Flashheads
-- Light shapers
-- Muslin backdrops -- grey and white
-
 {::comment}
 ### Floor plan
 
