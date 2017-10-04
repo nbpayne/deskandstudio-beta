@@ -87,7 +87,7 @@ Hold policy
 
 Cancellation policy
 : We understand&hellip; sometimes s#!t happens! A full refund applies if you give us 72 hours notice; less than 72 hours will receive a 50% refund. 
-: Similarly, moving your shoot date shoot date is free given more than 72 hours notice. Otherwise, a $25 admin fee will apply.
+: Similarly, moving your shoot date is free given more than 72 hours notice. Otherwise, a $25 admin fee will apply.
   
 Concessions
 : Concession rates are available for student shoots -- [get in touch with your details]({{ site.baseurl }}/contact/).
