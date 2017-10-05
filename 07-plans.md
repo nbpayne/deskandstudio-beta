@@ -2,14 +2,17 @@
 layout: default
 nav: Plans
 title: Desk sharing starting at A$75/day including studio
-description: Lower your costs with all-inclusive facilities, flexible plans, free high speed WiFi, creative hub of Sydney inner west.
+description: >-
+  Lower your costs with all-inclusive facilities, flexible plans, free high
+  speed WiFi, creative hub of Sydney inner west.
 heading: A co-working price to suit every wallet
 subheading: Choose from our flexible options
-image: 
+image:
   path: /images/heros/plans-md.jpg
   width: 1600
   height: 600
 permalink: /plans/
+published: true
 ---
 
 Whether you need a desk for the day, the week, or permanent residency in a creative Sydney co-working space, we have the option to suit you.
@@ -71,7 +74,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
   <div class="card text-center">
     <div class="card-body">
       <h4 class="card-title">Studio for a half day</h4>
-      <p class="card-text display-3">$150</p>
+      <p class="card-text display-3">$300</p>
       <ul class="card-text list-unstyled">
         <li>2.72m wide backdrops in arctic white and jett black</li>
         <li>4m wide and 4.5m deep with 3.6m high ceilings</li>
