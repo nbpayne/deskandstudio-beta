@@ -27,7 +27,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
   <div class="card text-center">
     <div class="card-body">
       <h4 class="card-title">Desk for a day</h4>
-      <p class="card-text display-3">$75</p>
+      <p class="card-text display-3">$50</p>
       <ul class="card-text list-unstyled">
         <li>Fast wifi</li>
         <li>Use of meeting room (subject to availability)</li>
@@ -42,7 +42,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
   <div class="card text-center">
     <div class="card-body">
       <h4 class="card-title">Desk for a week</h4>
-      <p class="card-text display-3">$175</p>
+      <p class="card-text display-3">$150</p>
       <ul class="card-text list-unstyled">
         <li>Fast wifi</li>
         <li>Use of photography studio (subject to availability)</li>
@@ -58,7 +58,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
   <div class="card text-center">
     <div class="card-body">
       <h4 class="card-title">Desk for a month</h4>
-      <p class="card-text display-3">$650</p>
+      <p class="card-text display-3">$500</p>
       <ul class="card-text list-unstyled">
         <li>Fast wifi</li>
         <li>Use of photography studio (subject to availability)</li>
@@ -74,7 +74,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
   <div class="card text-center">
     <div class="card-body">
       <h4 class="card-title">Studio for a half day</h4>
-      <p class="card-text display-3">$300</p>
+      <p class="card-text display-3">$175</p>
       <ul class="card-text list-unstyled">
         <li>2.72m wide backdrops in arctic white and jett black</li>
         <li>4m wide and 4.5m deep with 3.6m high ceilings</li>
@@ -87,7 +87,7 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
   <div class="card text-center">
     <div class="card-body">
       <h4 class="card-title">Studio for a full day</h4>
-      <p class="card-text display-3">$600</p>
+      <p class="card-text display-3">$300</p>
       <ul class="card-text list-unstyled">
         <li>2.72m wide backdrops in arctic white and jett black</li>
         <li>4m wide and 4.5m deep with 3.6m high ceilings</li>
