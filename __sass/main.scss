@@ -136,14 +136,14 @@ footer .social-links {
   margin-top: 0;
 }
 
-// .card-columns {
-//   @include media-breakpoint-only(md) {
-//     column-count: 2;
-//   }
-//   @include media-breakpoint-only(lg) {
-//     column-count: 3;
-//   }
-// }
+.card-columns {
+  @include media-breakpoint-up(sm) {
+    column-count: 2;
+  }
+  @include media-breakpoint-up(md) {
+    column-count: 3;
+  }
+}
 
 // Forms
 legend {
