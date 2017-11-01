@@ -80,10 +80,9 @@ Configure the space to your needs
 
 ---
 
-Simply fill out the [contact form]({{ site.baseurl}}/contact/) with your preferred dates and we will schedule it on the calendar. 
+Check availability and book online now.
 
-Hold policy
-: We can hold dates up to 5 working days -- any longer and we reserve the right to give the date to someone else. 
+[Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" }
 
 Cancellation policy
 : We understand&hellip; sometimes s#!t happens! A full refund applies if you give us 72 hours notice; less than 72 hours will receive a 50% refund. 
@@ -106,4 +105,4 @@ The studio is a few hundred metres from bus stops along Parramatta Road at Campe
 
 #### Ready to book your next photo shoot?
 
-[Get in touch.]({{ site.baseurl }}/contact/)
+Do it now... [Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" }

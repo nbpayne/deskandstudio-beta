@@ -42,4 +42,6 @@ If you’re a budding freelancer looking to join a co-working space for creative
 
 #### Need to book a meeting room pronto?
 
-Use our [contact form]({{ site.baseurl }}/contact/) or call [(0438) 698 924](tel:0438698924)
+[Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" } 
+
+... or call [(0438) 698 924](tel:0438698924)
