@@ -30,7 +30,6 @@ Our philosophy is ‘keep co-working prices simple’. This frees you up to focu
       <p class="card-text display-3">$50</p>
       <ul class="card-text list-unstyled">
         <li>Fast wifi</li>
-        <li>Use of meeting room (subject to availability)</li>
         <li>Concierge service</li>
         <li>Laser printer facilities</li>
         <li>Kitchenette with tea &amp; coffee available</li>
