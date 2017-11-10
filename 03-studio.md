@@ -82,7 +82,18 @@ Configure the space to your needs
 
 Check availability and book online now.
 
-[Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" }
+<!-- [Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" } -->
+
+
+<div class="card-columns">
+
+  {% include plans/studio-half-day.html %}
+
+  <div class="column-break"></div>
+  
+  {% include plans/studio-full-day.html %}
+
+</div>
 
 Cancellation policy
 : We understand&hellip; sometimes s#!t happens! A full refund applies if you give us 72 hours notice; less than 72 hours will receive a 50% refund. 
