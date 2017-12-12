@@ -55,7 +55,7 @@ The studio has a number of equipment options available, including:
 - Snoot
 - Red velvet curtains -- for a dramatic backdrop
 - Black theatre curtains
-Infinity backdrops -- white, black, grey and various coloured options.
+Infinity backdrops -- white, black, grey, chroma key green and various coloured options.
 - False floors -– white washed wooden packing crates for an elevated surface
 - Sandbags
 - Extension cables
