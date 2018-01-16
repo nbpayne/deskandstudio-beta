@@ -1,15 +1,16 @@
 ---
+title: Join the Creative Collective in Camperdown
+permalink: "/community/"
 layout: default
 nav: Community
-title: Join the Creative Collective in Camperdown
-description: Like-minded creative businesses located in the Camperdown area, Sydney. Get inspired by collective collaboration. Call (0438) 698 924.
+description: Like-minded creative businesses located in the Camperdown area, Sydney.
+  Get inspired by collective collaboration. Call (0438) 698 924.
 heading: You’re in good company
 subheading: Join the camperdown creative collective
-image: 
-  path: /images/heros/community-md.jpg
+image:
+  path: "/images/heros/community-md.jpg"
   width: 1600
   height: 600
-permalink: /community/
 ---
 
 It’s a hive of creativity surrounding Desk &amp; Studio! Perfect for freelancers in creative jobs who need access to support services or simply an inspiring place to unwind or work out. Join our collective of successful creative businesses located in the Camperdown area, the heart of Sydney’s inner west.

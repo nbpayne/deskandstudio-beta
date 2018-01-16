@@ -1,15 +1,16 @@
 ---
+title: Meeting room for hire
+permalink: "/meetings/"
 layout: default
 nav: Meetings
-title: Meeting room for hire
-description: Perfect for freelancers, creatives and small business owners hosting meetings, presentations or interviews off site. Call (0438) 698 924.
+description: Perfect for freelancers, creatives and small business owners hosting
+  meetings, presentations or interviews off site. Call (0438) 698 924.
 heading: Impress your clients
 subheading: Professional meeting room for freelancers
-image: 
-  path: /images/heros/meetings-md.jpg
+image:
+  path: "/images/heros/meetings-md.jpg"
   width: 1600
   height: 600
-permalink: /meetings/
 ---
 
 Tired of meeting clients at cafes?

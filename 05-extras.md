@@ -1,18 +1,16 @@
 ---
+title: Light-filled event space for hire Annandale, Sydney
+permalink: "/extras/"
 layout: default
 nav: Extras
-title: 'Light-filled event space for hire Annandale, Sydney'
-description: >-
-  Flexible, light-filled venue for workshops, seminars, product launches, music
-  launches and much more. Call (0438) 698 924.
+description: Flexible, light-filled venue for workshops, seminars, product launches,
+  music launches and much more. Call (0438) 698 924.
 heading: Not just a co-working space for creatives
 subheading: Multiple options for small business owners
 image:
-  path: /images/heros/extras-md.jpg
+  path: "/images/heros/extras-md.jpg"
   width: 1600
   height: 600
-permalink: /extras/
-published: true
 ---
 
 Looking for a venue to hold a product launch? Need a space to deliver a seminar? Or just looking for an alternative space to hold a special event with a touch of flair?

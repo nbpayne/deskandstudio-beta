@@ -1,21 +1,17 @@
 ---
+title: Co-working space for creatives in Sydney
+permalink: "/"
 layout: home
 nav: Home
-title: Co-working space for creatives in Sydney
-description: >-
-  Get out of the home office and unlock your creative potential. Co-working
-  space from $50 per day plus studio/conference facilities. Phone (0438) 698
-  924.
+description: Get out of the home office and unlock your creative potential. Co-working
+  space from $50 per day plus studio/conference facilities. Phone (0438) 698 924.
 heading: Creative co-working space
-subheading: >-
-  A personal touch to flexible co-working for creatives, solopreneurs and small
-  business owners
+subheading: A personal touch to flexible co-working for creatives, solopreneurs and
+  small business owners
 image:
-  path: /images/heros/home-md.jpg
+  path: "/images/heros/home-md.jpg"
   width: 1600
   height: 600
-permalink: /
-published: true
 ---
 
 Hi, I’m [Lyn Taylor]({{ site.baseurl }}/contact/), welcome to Desk & Studio!

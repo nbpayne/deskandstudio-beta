@@ -1,25 +1,33 @@
+---
 title: Desk & Studio
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: www@deskandstudio.com
-description: > 
-  Get out of the home office and unlock your creative potential. Co-working 
-  space from $50 per day plus studio/conference facilities. Phone (0438) 698 924.
+description: 'Get out of the home office and unlock your creative potential. Co-working  space
+  from $50 per day plus studio/conference facilities. Phone (0438) 698 924.
+
+'
 baseurl: 
 url: http://www.deskandstudio.com
 twitter:
   username: deskandstudio
-
-# Build settings
 markdown: kramdown
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-sitemap
 exclude:
-  - bower_components
-  - bower.json
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - node_modules
-  - package.json
-  - README.md
-  - yarn.lock
+- bower_components
+- bower.json
+- Gemfile
+- Gemfile.lock
+- gulpfile.js
+- node_modules
+- package.json
+- README.md
+- yarn.lock
