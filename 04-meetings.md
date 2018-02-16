@@ -1,15 +1,16 @@
 ---
+title: Meeting room for hire
+permalink: "/meetings/"
 layout: default
 nav: Meetings
-title: Meeting room for hire
-description: Perfect for freelancers, creatives and small business owners hosting meetings, presentations or interviews off site. Call (0438) 698 924.
+description: Perfect for freelancers, creatives and small business owners hosting
+  meetings, presentations or interviews off site. Call (0438) 698 924.
 heading: Impress your clients
 subheading: Professional meeting room for freelancers
-image: 
-  path: /images/heros/meetings-md.jpg
+image:
+  path: "/images/heros/meetings-md.jpg"
   width: 1600
   height: 600
-permalink: /meetings/
 ---
 
 Tired of meeting clients at cafes?
@@ -42,4 +43,16 @@ If you’re a budding freelancer looking to join a co-working space for creative
 
 #### Need to book a meeting room pronto?
 
-Use our [contact form]({{ site.baseurl }}/contact/) or call [(0438) 698 924](tel:0438698924)
+Book online now:
+
+<div class="card-columns">
+
+  {% include plans/meeting-room-half-day.html %}
+  <div class="column-break"></div>
+  {% include plans/meeting-room-full-day.html %}
+  <div class="column-break"></div>
+  {% include plans/meeting-room-other.html %}
+
+</div>
+
+... or call [(0438) 698 924](tel:0438698924)

@@ -1,10 +1,10 @@
 ---
-layout: default
 title: Privacy Policy
+permalink: "/privacy/"
+layout: default
 heading: Privacy Policy
 subheading: We care about your private information
-image: /images/heros/home-md.jpg
-permalink: /privacy/
+image: "/images/heros/home-md.jpg"
 sitemap: false
 ---
 

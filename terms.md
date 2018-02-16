@@ -1,15 +1,15 @@
 ---
+title: Terms and Conditions
+permalink: "/terms/"
 layout: default
 nav: Terms and Conditions
-title: Terms and Conditions
 description: Website Terms and Conditions.
 heading: Website Terms and Conditions
 subheading: Please take the time to read these terms and conditions.
-image: 
-  path: /images/heros/home-md.jpg
+image:
+  path: "/images/heros/home-md.jpg"
   width: 1600
   height: 600
-permalink: /terms/
 sitemap: false
 ---
 

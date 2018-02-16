@@ -1,15 +1,17 @@
 ---
+title: Shared desk space available in Sydney’s inner west
+permalink: "/desk/"
 layout: default
 nav: Desk
-title: Shared desk space available in Sydney’s inner west
-description: Hot desks and permanent desks with shared studio and meeting facilities suitable for creatives, small business owners and freelancers. Phone (0438) 698 924.
+description: Hot desks and permanent desks with shared studio and meeting facilities
+  suitable for creatives, small business owners and freelancers. Phone (0438) 698
+  924.
 heading: Outgrown WFH*
 subheading: Hire a desk, get so much more
-image: 
-  path: /images/heros/desk-md.jpg
+image:
+  path: "/images/heros/desk-md.jpg"
   width: 1600
   height: 600
-permalink: /desk/
 ---
 
 I know your challenge -- working from home can start to wear thin! It’s hard staying focused on your projects when the kids/cat/washing up keep intruding on your thoughts!
@@ -88,5 +90,16 @@ Are your solo business efforts paying off, and you’re now looking for a perman
 
 #### Ready to be a Deskie?
 
-[Book today. Be a 'Deskie' tomorrow. It’s that simple!]({{ site.baseurl }}/contact/)
+Book today. Be a 'Deskie' tomorrow. It’s that simple!
 
+<div class="card-columns">
+
+  {% include plans/desk-day.html %}
+  <div class="column-break"></div>
+  {% include plans/desk-week.html %}
+  <div class="column-break"></div>
+  {% include plans/desk-month.html %}
+
+</div>
+
+... or call [(0438) 698 924](tel:0438698924)

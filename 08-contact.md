@@ -1,18 +1,19 @@
 ---
+title: Desk & Studio is available for hire, get in touch today!
+permalink: "/contact/"
 layout: default
 nav: Contact
-title: Desk & Studio is available for hire, get in touch today!
-description: Find out how to contact Desk & Studio. Questions? Call Lyn Taylor on (0438) 698 924.
+description: Find out how to contact Desk & Studio. Questions? Call Lyn Taylor on
+  (0438) 698 924.
 heading: We love succulents
 subheading: Want to know more?
-image: 
-  path: /images/heros/contact-md.jpg
+image:
+  path: "/images/heros/contact-md.jpg"
   width: 1600
   height: 600
-permalink: /contact/
 ---
 
-Lyn Taylor is a photographer, videographer, musician, graphic designer, project manager, lover of succulents, and all-round creative type.
+Lyn Taylor is a photographer, videographer, musician, project manager, lover of succulents, and all-round creative type.
 {: .lead }
 
 Lyn had a vision of creating a boutique co-working space for the portfolio creative, small business owner and anyone looking for a dedicated workspace away from home. She wanted to design a co-working space optimised for brewing great ideas, and also be a home to her growing collection of succulents! ([Did we mention every ‘deskie’ gets one?](/desk/)).

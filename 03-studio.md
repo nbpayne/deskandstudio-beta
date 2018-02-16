@@ -1,15 +1,15 @@
 ---
+title: Photography studio hire -- co-working for creatives
+permalink: "/studio/"
 layout: default
 nav: Studio
-title: Photography studio hire -- co-working for creatives
 description: Photography studio and co-working space for creatives in Annandale, Sydney.
 heading: Looking for a Sydney photography studio or want to rent a studio in Sydney?
 subheading: Flexible photo studio hire in sydney’s inner west
-image: 
-  path: /images/heros/studio-md.jpg
+image:
+  path: "/images/heros/studio-md.jpg"
   width: 1600
   height: 600
-permalink: /studio/
 ---
 
 Our studio space is a boutique, yet versatile space suited to simple shoots such as portraits, product shoots, and to-camera video pieces.
@@ -45,25 +45,21 @@ The studio is painted white with light floor tiles, allowing for beautiful natur
 
 The studio has a number of equipment options available, including:
 
+- 2 X 1000w studio flash heads
+- Standard soft boxes
+- Umbrellas
+- Beauty dish
+- Barn doors, with coloured gels
+- 120cm octagon softbox
+- Snoot
 - Red velvet curtains -- for a dramatic backdrop
 - Black theatre curtains
-- Infinity backdrops -- white available
-- False floors -- white washed wooden packing crates for an elevated surface
+Infinity backdrops -- white, black, grey, chroma key green and various coloured options.
+- False floors -– white washed wooden packing crates for an elevated surface
 - Sandbags
 - Extension cables
-- A-clamps
 
-### Investing in the future
-
----
-
-The studio is constantly undergoing upgrades -- future plans include adding:
-
-- Green room/change room remodelling
-- Light heads
-- Flashheads
-- Light shapers
-- Muslin backdrops -- grey and white
+We are continually growing our equipment list, please call the studio manager if you have any additional requirements.
 
 {::comment}
 ### Floor plan
@@ -83,14 +79,24 @@ Configure the space to your needs
 
 ---
 
-Simply fill out the [contact form]({{ site.baseurl}}/contact/) with your preferred dates and we will schedule it on the calendar. 
+Check availability and book online now.
 
-Hold policy
-: We can hold dates up to 5 working days -- any longer and we reserve the right to give the date to someone else. 
+<!-- [Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" } -->
+
+
+<div class="card-columns">
+
+  {% include plans/studio-half-day.html %}
+
+  <div class="column-break"></div>
+  
+  {% include plans/studio-full-day.html %}
+
+</div>
 
 Cancellation policy
 : We understand&hellip; sometimes s#!t happens! A full refund applies if you give us 72 hours notice; less than 72 hours will receive a 50% refund. 
-: Similarly, moving your shoot date shoot date is free given more than 72 hours notice. Otherwise, a $25 admin fee will apply.
+: Similarly, moving your shoot date is free given more than 72 hours notice. Otherwise, a $25 admin fee will apply.
   
 Concessions
 : Concession rates are available for student shoots -- [get in touch with your details]({{ site.baseurl }}/contact/).
@@ -109,4 +115,4 @@ The studio is a few hundred metres from bus stops along Parramatta Road at Campe
 
 #### Ready to book your next photo shoot?
 
-[Get in touch.]({{ site.baseurl }}/contact/)
+Do it now... [Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" }
