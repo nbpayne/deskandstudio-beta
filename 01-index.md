@@ -31,5 +31,3 @@ Whatever you can think of doing with a space, we can do it! You can transform ou
 Our style is clean, modern and designed to inspire you. Why not check us out?
 
 #### Ready to take a tour?
-
-[Ready to take a tour?]({{ site.baseurl }}/contact/)
