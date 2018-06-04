@@ -58,6 +58,8 @@ Infinity backdrops -- white, black, grey, chroma key green and various coloured 
 - False floors -– white washed wooden packing crates for an elevated surface
 - Sandbags
 - Extension cables
+- 2 x continuous lighting LED panels
+- 1 x high power continuous LED light with bowens mount to suit all our light shapers
 
 We are continually growing our equipment list, please call the studio manager if you have any additional requirements.
 
