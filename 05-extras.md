@@ -46,15 +46,13 @@ Our concierge services will make you and your guests feel right at home.
 
 ---
 
-Looking to hold your next event in Camperdown? Product launch, photo shoot, music launch, video interviews, seminars or workshops&hellip; whatever you can think of, The Newsagency co-located with Desk &amp; Studio can make your next event stand out from the crowd. 
+Looking to hold your next event in the inner-west? Product launch, photo shoot, music launch, video interviews, seminars or workshops&hellip; whatever you can think of, Desk &amp; Studio can make your next event stand out from the crowd. 
   
 Our flexible event space is available for hire during the evenings after 6pm and all weekend.
   
 **Inclusions:**
 
-- Platform stage (add dimensions)
 - AV equipment including microphones
-- Seating for 100 theatre style or 150 cocktail style
 - Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
 - Unisex toilets
 - Water/Tea &amp; Coffee

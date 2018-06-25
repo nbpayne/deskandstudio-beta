@@ -17,7 +17,7 @@ Our studio space is a boutique, yet versatile space suited to simple shoots such
 
 We offer a wide range of options for backdrops, lighting and textures for the space on-site. You can also BYO backdrops if you have specialist requirements. 
 
-Our location is convenient and easy to find --- a short drive or bus trip from Sydney CBD to Camperdown along Parramatta Road --- getting here and setting up is a breeze.
+Our location is convenient and easy to find --- a short drive or bus trip from Sydney CBD to Petersham along Parramatta Road --- getting here and setting up is a breeze.
 
 The studio can be hired for a full day, or just half a day. 
 
@@ -27,11 +27,11 @@ The studio can be hired for a full day, or just half a day.
 
 Small, but versatile featuring natural light and loads of character. The studio is located in a warehouse space with exposed roof areas that gives the space an industrial feel. 
 
-The studio is painted white with light floor tiles, allowing for beautiful natural light all day long.
+The studio is painted white with two large arch windows, allowing for beautiful natural light all day long. Alternatively the blockout blinds can be lowered to allow for creative lighting approaches.
 
 **Features**
 
-- Floor area 4.5m wide x 4m deep with high ceilings (3.7m)
+- Floor area 5.7m wide x 9m deep with high ceilings (4.6m)
 - White brick walls give a textured backdrop
 - Great for photographers looking to shoot in natural light
 - Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
@@ -50,11 +50,10 @@ The studio has a number of equipment options available, including:
 - Umbrellas
 - Beauty dish
 - Barn doors, with coloured gels
-- 120cm octagon softbox
+- 140cm octagon softbox
 - Snoot
 - Red velvet curtains -- for a dramatic backdrop
-- Black theatre curtains
-Infinity backdrops -- white, black, grey, chroma key green and various coloured options.
+- Infinity backdrops -- white, black, grey, chroma key green and various coloured options.
 - False floors -– white washed wooden packing crates for an elevated surface
 - Sandbags
 - Extension cables
@@ -113,7 +112,7 @@ We have secure lockers for your equipment if you are a [Deskie](/desk/). If you�
 
 ---
 
-The studio is a few hundred metres from bus stops along Parramatta Road at Camperdown. We’re super accessible by bus or car. Street parking is available however it’s mostly 2 hour and some non-restricted in the side streets.
+The studio is a few hundred metres from bus stops along Parramatta Road at Petersham. We’re super accessible by bus or car. Street parking is available however it’s mostly 2 hour and some non-restricted in the side streets.
 
 #### Ready to book your next photo shoot?
 

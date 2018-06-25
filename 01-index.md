@@ -20,7 +20,7 @@ Hi, I’m [Lyn Taylor]({{ site.baseurl }}/contact/), welcome to Desk & Studio!
 I wanted to create a co-working space for self-employed creative types (like me). It’s a space away from home distractions with an inspiring vibe. You can collaborate with other inspiring people, or just put the headphones on and get into a work groove.
 {: .lead }
 
-We’re based right in the heart of the inner-west at Camperdown, up the road from Glebe, around the corner from The Annandale Hotel and a short bus trip into Sydney.
+We’re based right in the heart of the inner-west at Petersham, just near Norton Street Leichardt, around the corner from caf&eacute;s and a short bus trip into Sydney.
 
 Stepping into Desk & Studio will make you feel inspired. It’s a light, white and bright co-working space featuring a studio, conference room and a funky multi-purpose event venue.
 

@@ -48,7 +48,6 @@ Once you book a desk, you’re in! Aside from the personal concierge service, su
 - 24-hour access (for permanent Deskies, access after hours by appointment for hot Deskies)
 - Fully equipped kitchenette with fridge, microwave, sink, tea/coffee, basic flatware and cutlery
 - Weekly cleaning
-- [Support community](/community/) -- share the space with other creatives, refer work to each other and be inspired
 - Unisex toilets
 - 15 minutes from Sydney by bus
 
