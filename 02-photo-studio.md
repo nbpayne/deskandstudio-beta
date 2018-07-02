@@ -1,8 +1,8 @@
 ---
 title: Photography studio hire -- co-working for creatives
-permalink: "/studio/"
+permalink: "/photo-studio/"
 layout: default
-nav: Studio
+nav: Photo Studio
 description: Photography studio and co-working space for creatives in Annandale, Sydney.
 heading: Looking for a Sydney photography studio or want to rent a studio in Sydney?
 subheading: Flexible photo studio hire in sydney’s inner west
@@ -10,6 +10,7 @@ image:
   path: "/images/heros/studio-md.jpg"
   width: 1600
   height: 600
+redirect_from: "/studio/"
 ---
 
 Our studio space is a boutique, yet versatile space suited to simple shoots such as portraits, product shoots, and to-camera video pieces.

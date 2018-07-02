@@ -11,6 +11,7 @@ image:
   path: "/images/heros/extras-md.jpg"
   width: 1600
   height: 600
+sitemap: false
 ---
 
 Looking for a venue to hold a product launch? Need a space to deliver a seminar? Or just looking for an alternative space to hold a special event with a touch of flair?

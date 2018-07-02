@@ -11,6 +11,7 @@ image:
   path: "/images/heros/plans-md.jpg"
   width: 1600
   height: 600
+sitemap: false
 ---
 
 Whether you need a desk for the day, the week, or permanent residency in a creative Sydney co-working space, we have the option to suit you.
