@@ -25,7 +25,7 @@ Every desk comes equipped with lockable drawers and filing cabinet, as well as a
 
 High ceilings, with a retro tiled floor, Desk & Studio is a flexible space that can be used for anything from workshops to project collaboration, solo entrepreneurship, seminars and photo shoots.
 
-<dfn id="WFH">*Working from home</dfn>
+<dfn id="WFH">&#42;Working from home</dfn>
 
 ### What do 'Deskies' get?
 
@@ -48,7 +48,6 @@ Once you book a desk, you’re in! Aside from the personal concierge service, su
 - 24-hour access (for permanent Deskies, access after hours by appointment for hot Deskies)
 - Fully equipped kitchenette with fridge, microwave, sink, tea/coffee, basic flatware and cutlery
 - Weekly cleaning
-- [Support community](/community/) -- share the space with other creatives, refer work to each other and be inspired
 - Unisex toilets
 - 15 minutes from Sydney by bus
 
