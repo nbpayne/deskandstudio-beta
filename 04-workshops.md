@@ -18,4 +18,12 @@ scripts:
 
 ---
 
-<pre id="workshops"></pre>
+<table id="workshops" class="table">
+  <thead>
+    <tr>
+      <th scope="col`">Date</th>
+      <th scope="col">Topic</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
