@@ -91,10 +91,19 @@ gulp.task('js', function () {
     .pipe(sourcemaps.write, '.')
     .pipe(gulp.dest, '.');
 
-  return gulp.src('__includes/*.html')
-    .pipe(useref())
-    .pipe(gulpif('*.js', processjs()))
-    .pipe(gulpif('*.html', gulp.dest('_includes')));
+  return merge(
+    // Footer linked javascript files
+    gulp.src('__includes/*.html')
+      .pipe(useref())
+      .pipe(gulpif('*.js', processjs()))
+      .pipe(gulpif('*.html', gulp.dest('_includes'))),
+    // Page specific javascript files
+    gulp.src('__js/more/*.js')
+      .pipe(sourcemaps.init())
+      .pipe(uglify())
+      .pipe(sourcemaps.write('.'))
+      .pipe(gulp.dest('js'))
+  );
 });
 
 // Convert images to jpg, and webp

@@ -10,4 +10,12 @@ image:
   path: "/images/heros/studio-md.jpg"
   width: 1600
   height: 600
+scripts:
+- meetup
 ---
+
+### Upcoming photography workshops
+
+---
+
+<pre id="workshops"></pre>
