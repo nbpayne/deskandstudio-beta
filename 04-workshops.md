@@ -27,3 +27,5 @@ scripts:
   </thead>
   <tbody></tbody>
 </table>
+
+View more workshops and join our meetup group at [Inner West Sydney Photography Group](https://www.meetup.com/Inner-West-Sydney-Photography-Group/).

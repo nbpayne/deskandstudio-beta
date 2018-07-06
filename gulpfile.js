@@ -100,6 +100,8 @@ gulp.task('js', function () {
     // Page specific javascript files
     gulp.src('__js/more/*.js')
       .pipe(sourcemaps.init())
+      .pipe(jshint())
+      .pipe(jshint.reporter('jshint-stylish'))
       .pipe(uglify())
       .pipe(sourcemaps.write('.'))
       .pipe(gulp.dest('js'))
