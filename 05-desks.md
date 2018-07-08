@@ -9,7 +9,7 @@ description: Hot desks and permanent desks with shared studio and meeting facili
 heading: Outgrown WFH*
 subheading: Hire a desk, get so much more
 image:
-  path: "/images/heros/desk-md.jpg"
+  path: "/images/heros/desks-md.jpg"
   width: 1600
   height: 600
 redirect_from: "/desk/"
@@ -24,7 +24,7 @@ Everyone who steps over the threshold has the same reaction: "It’s so light an
 
 Every desk comes equipped with lockable drawers and filing cabinet, as well as a welcome succulent and coffee cup!
 
-High ceilings, with a retro tiled floor, Desk & Studio is a flexible space that can be used for anything from workshops to project collaboration, solo entrepreneurship, seminars and photo shoots.
+High ceilings, with timber floors, Desk & Studio is a flexible space that can be used for anything from workshops to project collaboration, solo entrepreneurship, seminars and photo shoots.
 
 <dfn id="WFH">&#42;Working from home</dfn>
 
@@ -36,19 +36,18 @@ Our residents, affectionately called 'Deskies' get an all-inclusive range of fac
 
 Once you book a desk, you’re in! Aside from the personal concierge service, succulent and coffee mug, all Deskies get the following inclusions:
 
-- 28m<sup>2</sup> (7m by 4m) open space, shared with co-Deskies
 - 1 awesome desk and chair, which includes lockable drawers and filing cabinet
 - Option of a standing desk -- shared layout space for creativity, samples, presentations
-- Access to [Studio space](/studio/)
+- Access to [Studio space](/photo-studio/)
 - Unlimited Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
 - Lockable storage areas for equipment
 - Black and white/colour printing (fair use policy applies)
-- Discounted rates for Desk & Studio workshops and seminars
-- Conference room
+- Meeting room
 - All bills included
 - 24-hour access (for permanent Deskies, access after hours by appointment for hot Deskies)
 - Fully equipped kitchenette with fridge, microwave, sink, tea/coffee, basic flatware and cutlery
 - Weekly cleaning
+- Support community -- share the space with other creatives, refer work to each other and be inspired
 - Unisex toilets
 - 15 minutes from Sydney by bus
 
@@ -62,7 +61,6 @@ New to the co-working caper? Not sure you’re ready for commitment? It doesn’
 
 - Come and go with a hot desk (after hours by arrangement)
 - Pay per day
-- Move around the office between our shared desks and spaces
 - No contract or commitment
 - Access to conference room included (subject to availability)
 

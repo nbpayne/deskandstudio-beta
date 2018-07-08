@@ -1,11 +1,11 @@
 <div class="card text-center">
   <picture>
-    <source class="card-img-top" type="image/webp" srcset="{{ site.baseurl }}/images/cards/{{ include.title | downcase }}.webp">
-    <img class="card-img-top" src="{{ site.baseurl }}/images/cards/{{ include.title | downcase }}.png" alt="{{ include.title }}">
+    <source class="card-img-top" type="image/webp" srcset="{{ site.baseurl }}/images/cards/{{ include.title | slugify }}.webp">
+    <img class="card-img-top" src="{{ site.baseurl }}/images/cards/{{ include.title | slugify }}.png" alt="{{ include.title }}">
   </picture>
   <div class="card-body">
     <h4 class="card-title">{{ include.title }}</h4>
     <p class="card-text">{{ include.text }}</p>
-    <a href="{{ site.baseurl }}/{{ include.title | downcase }}/" class="btn btn-primary">{{ include.cta }}</a>
+    <a href="{{ site.baseurl }}/{{ include.title | slugify }}/" class="btn btn-primary">{{ include.cta }}</a>
   </div>
 </div>

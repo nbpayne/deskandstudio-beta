@@ -18,14 +18,15 @@ Tired of meeting clients at cafes?
 
 Whether you’re a freelancer who needs to project a more professional image, or a small business owner expanding, our beautiful creative space is perfect for face-to-face meetings, small workshops and brainstorming sessions.
 
-If you need short-time hire of a meeting room in Camperdown, look no further than Desk &amp; Studio. 
+Need a space for pre-production or a writer’s room? We have you covered. We’ll organise the catering for you and give you the space you need to get the ideas flowing.
+
+If you need short-term hire of a meeting room in Petersham, look no further than Desk &amp; Studio.
 
 **Features**
 
 - Our meeting room is available 5 days a week from 8.30am-5pm (after hours, and weekends by arrangement)
-- Boardroom table with seating for up to 6 people
-- Floor area 4.5m wide x 4m deep with high ceilings (3.7m)
-- Theatre curtains for privacy and sound proofing
+- Boardroom table with seating for up to 8 people
+- Floor area 5.5m wide x 5m deep with high ceilings (4.5m)
 - Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
 - Unisex toilets
 - Water/Tea and Coffee
@@ -37,9 +38,9 @@ If you need short-time hire of a meeting room in Camperdown, look no further tha
 
 ---
 
-We don’t just have meeting rooms, we are also a co-working space for creatives. ‘Deskies’ get access to the meeting room and [studio](/studio/) (subject to availability). We also provide secure lockers for your equipment if you take a weekly or permanent desk. 
+We don’t just have meeting rooms, we are also a co-working space for creatives. ‘Deskies’ get access to the meeting room and [studio](/photo-studio/) (subject to availability). We also provide secure lockers for your equipment if you take a weekly or permanent desk. 
 
-If you’re a budding freelancer looking to join a co-working space for creatives, Desk &amp; Studio has great [plans](/plans/) to suit every option.
+If you’re a budding freelancer looking to join a co-working space for creatives, Desk &amp; Studio has great [plans](/desks/) to suit every option.
 
 #### Need to book a meeting room pronto?
 

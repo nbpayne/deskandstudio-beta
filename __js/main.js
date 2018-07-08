@@ -1,4 +1,4 @@
-console.log('Hello Annandale.');
+console.log('Hello Petersham.');
 
 var myLazyLoad = new LazyLoad();
 

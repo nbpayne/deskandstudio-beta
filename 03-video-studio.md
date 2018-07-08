@@ -7,7 +7,8 @@ description: [DESCRIPTION]
 heading: [HEADING]
 subheading: [SUB-HEADING]
 image:
-  path: "/images/heros/studio-md.jpg"
+  path: "/images/heros/video-studio-md.jpg"
   width: 1600
   height: 600
+sitemap: false
 ---

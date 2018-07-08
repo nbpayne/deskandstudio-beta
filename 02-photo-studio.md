@@ -1,26 +1,26 @@
 ---
-title: Photography studio hire -- co-working for creatives
+title: Photography studio hire
 permalink: "/photo-studio/"
 layout: default
 nav: Photo Studio
-description: Photography studio and co-working space for creatives in Annandale, Sydney.
+description: Photography studio and co-working space for creatives in Petersham, Sydney.
 heading: Looking for a Sydney photography studio or want to rent a studio in Sydney?
-subheading: Flexible photo studio hire in sydney’s inner west
+subheading: Flexible photo studio hire in Sydney’s inner west
 image:
-  path: "/images/heros/studio-md.jpg"
+  path: "/images/heros/photo-studio-md.jpg"
   width: 1600
   height: 600
 redirect_from: "/studio/"
 ---
 
-Our studio space is a boutique, yet versatile space suited to simple shoots such as portraits, product shoots, and to-camera video pieces.
+Our large light-filled photo studio has been designed to be used as a natural light photography studio, but can be easily transformed for flash and continuous lighting.
 {: .lead }
 
-We offer a wide range of options for backdrops, lighting and textures for the space on-site. You can also BYO backdrops if you have specialist requirements. 
+We offer a wide range of options for backdrops, lighting and textures for the space on-site. You can also BYO backdrops if you have specialist requirements.
 
-Our location is convenient and easy to find --- a short drive or bus trip from Sydney CBD to Petersham along Parramatta Road --- getting here and setting up is a breeze.
+Our location is convenient and easy to find — a short drive or your choice of bus or train from Sydney CBD to Petersham — getting here and setting up is a breeze.
 
-The studio can be hired for a full day, or just half a day. 
+The studio can be hired for a full day, or just half a day, and with the option of late night photo studio hire or even weekend hires, and booking is easy via the online booking system.
 
 ### The space
 
@@ -83,9 +83,6 @@ Configure the space to your needs
 
 Check availability and book online now.
 
-<!-- [Book now](https://deskandstudio.simplybook.me/v2/#book){: .btn.btn-primary target="_blank" } -->
-
-
 <div class="card-columns">
 
   {% include plans/studio-half-day.html %}
@@ -107,13 +104,13 @@ Concessions
 
 ---
 
-We have secure lockers for your equipment if you are a [Deskie](/desk/). If you’re a budding photographer looking to join a co-working space for creatives, Desk &amp; Studio has great [plans](/plans/) to suit every option.
+We have secure lockers for your equipment if you are a [Deskie](/desks/). If you’re a budding photographer looking to join a co-working space for creatives, Desk &amp; Studio has great plans to suit every option.
 
 ### Location
 
 ---
 
-The studio is a few hundred metres from bus stops along Parramatta Road at Petersham. We’re super accessible by bus or car. Street parking is available however it’s mostly 2 hour and some non-restricted in the side streets.
+The studio is a short walk from bus stops along Parramatta Road at Petersham. We’re super accessible by bus or car. Street parking is available however it’s mostly 2 hour and some non-restricted in the side streets.
 
 #### Ready to book your next photo shoot?
 
