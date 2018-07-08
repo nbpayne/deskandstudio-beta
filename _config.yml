@@ -14,13 +14,14 @@ description: 'Get out of the home office and unlock your creative potential. Co-
 
 '
 baseurl: 
-url: http://www.deskandstudio.com
+url: http://beta.deskandstudio.com
 twitter:
   username: deskandstudio
 markdown: kramdown
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-redirect-from
 exclude:
 - bower_components
 - bower.json

@@ -2,6 +2,7 @@
 title: Privacy Policy
 permalink: "/privacy/"
 layout: default
+description: We care about your private information. Read our Privacy Policy here.
 heading: Privacy Policy
 subheading: We care about your private information
 image: "/images/heros/home-md.jpg"

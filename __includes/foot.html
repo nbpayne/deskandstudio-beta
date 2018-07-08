@@ -12,6 +12,7 @@
     <script src="../bower_components/popper.js/dist/umd/popper.js"></script>
     <script src="../bower_components/bootstrap/dist/js/bootstrap.js"></script>
     <script src="../bower_components/vanilla-lazyload/dist/lazyload.min.js"></script>
+    <script src="../bower_components/moment/moment.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
@@ -19,6 +20,10 @@
     <script src="../__js/main.js"></script>
     <!-- endbuild -->
     
+{% for script in page.scripts %}
+    <script type="text/javascript" src="{{ site.baseurl }}/js/{{ script }}.js"></script>
+{% endfor %}
+
     <!--
     Repository name: {{ site.github.repository_name }}
     Jekyll environment: {{ jekyll.environment }}
