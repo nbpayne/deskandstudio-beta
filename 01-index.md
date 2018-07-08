@@ -12,6 +12,10 @@ image:
   path: "/images/heros/home-md.jpg"
   width: 1600
   height: 600
+redirect_from: 
+- "/community/"
+- "/extras/"
+- "/plans/"
 ---
 
 Hi, I’m [Lyn Taylor]({{ site.baseurl }}/contact/), welcome to Desk & Studio!
