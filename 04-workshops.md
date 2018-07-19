@@ -3,7 +3,7 @@ title: Photography and cinematography workshops
 permalink: "/workshops/"
 layout: default
 nav: Workshops
-description: Photography workshops and private lessons available in Petersham, Sydney
+description: Photography workshops and private lessons available in Petersham, Sydney.
 heading: Want to start shooting for yourself or want to take it up a notch?
 subheading: Why not join a photography class at Desk and Studio
 image:
