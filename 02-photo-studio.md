@@ -3,7 +3,7 @@ title: Photography studio hire
 permalink: "/photo-studio/"
 layout: default
 nav: Photo Studio
-description: Photography studio and co-working space for creatives in Petersham, Sydney.
+description: Flexible photography studio optimised for both natural light, and studio lights. All backdrops and ligthing is included in the hire price.
 heading: Looking for a Sydney photography studio or want to rent a studio in Sydney?
 subheading: Flexible photo studio hire in Sydney’s inner west
 image:
