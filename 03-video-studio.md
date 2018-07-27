@@ -40,6 +40,18 @@ Music videos for Anabelle Kay, Danielle Deckard, Jess Starreveld, Crash & The Cr
     </div>
   </div>
 </div>
+<div class="row">
+  <div class="col-lg mb-3">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe src="https://www.youtube.com/embed/qhZcEh0q3mM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="col-lg mb-3">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe src="https://www.youtube.com/embed/MVAPaXPl8BQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 ### Green Screen
 
