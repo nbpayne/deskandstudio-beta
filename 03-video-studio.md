@@ -1,7 +1,6 @@
 ---
-title: Video studio hire -- co-working for creatives
+title: Video studio hire
 permalink: "/video-studio/"
-layout: default
 nav: Video Studio
 description: Large video studio perfect for music videos, green screen, and interviews.
 heading: Film your story in our studio and take it to the next level
@@ -11,6 +10,7 @@ image:
   width: 1600
   height: 600
 sitemap: true
+layout: default
 ---
 
 Make your production stand out by shooting it in our video studio using choosing from a variety of backdrops and backgrounds, whilst making use of all our lighting equipment.

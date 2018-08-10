@@ -3,16 +3,17 @@ title: Photography studio in Sydney's Inner West
 permalink: "/"
 layout: home
 nav: Home
-description: Boutique photo studio with options of natural or studio lighting. Studio hire starting from $175 plus 
-  co-working/meeting/event facilities. Phone (0438) 698 924.
+description: Boutique photo studio with options of natural or studio lighting. Studio
+  hire starting from $175 plus co-working/meeting/event facilities. Phone (0438) 698
+  924.
 heading: Photo studio hire in Sydney
-subheading: A personal touch to studio hire and flexible co-working for creatives, solopreneurs and small business 
-  owners
+subheading: A personal touch to studio hire and flexible co-working for creatives,
+  solopreneurs and small business owners
 image:
   path: "/images/heros/home-md.jpg"
   width: 1600
   height: 600
-redirect_from: 
+redirect_from:
 - "/community/"
 - "/extras/"
 - "/plans/"

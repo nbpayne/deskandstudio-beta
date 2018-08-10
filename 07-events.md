@@ -3,7 +3,8 @@ title: Light filled event space
 permalink: "/events/"
 layout: default
 nav: Events
-description: Multi-use event space for hire in Petersham, Sydney. Can be easily converted into a theatre, gallery or themed function space.
+description: Multi-use event space for hire in Petersham, Sydney. Can be easily converted
+  into a theatre, gallery or themed function space.
 heading: Have an event coming up and in a pickle?
 subheading: We have a small event space in the Inner West for you
 image:
