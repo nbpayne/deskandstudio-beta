@@ -47,7 +47,7 @@ The studio is painted white with two large arch windows, allowing for beautiful 
 
 The studio has a number of equipment options available, including:
 
-- 2 X 1000w studio flash heads
+- 2 X Godox 1200II 1200w studio flash heads
 - Standard soft boxes
 - Umbrellas
 - Beauty dish
@@ -60,7 +60,7 @@ The studio has a number of equipment options available, including:
 - Sandbags
 - Extension cables
 - 2 x continuous lighting LED panels
-- 1 x high power continuous LED light with bowens mount to suit all our light shapers
+- 1 x Godox SL150W high power continuous LED light with bowens mount to suit all our light shapers
 
 We are continually growing our equipment list, please call the studio manager if you have any additional requirements.
 

@@ -86,9 +86,9 @@ Equipment includes, but is not limited to:
 - Infinity backdrops -- white, black, grey, chroma key green and various coloured options
 - Painted backdrops -- black, and gold
 - White painted brick walls
-- 2 x continuous lighting LED panels
+- 2 x continuous lighting 600 bi-colour LED panels
 - 1 x edge lit continous LED light
-- 1 x high power continuous LED light with bowens mount to suit all our light shapers
+- 1 x Godox SL150W high power continuous LED light with bowens mount to suit all our light shapers
 - Standard soft boxes
 - Umbrellas
 - Beauty dish
