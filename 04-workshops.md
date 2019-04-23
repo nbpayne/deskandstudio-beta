@@ -28,7 +28,7 @@ Topics covered will be announced in advance of each workshop, and will includes 
 <table id="workshops" class="table">
   <thead>
     <tr>
-      <th scope="col`">Date</th>
+      <th scope="col">Date</th>
       <th scope="col">Topic</th>
     </tr>
   </thead>

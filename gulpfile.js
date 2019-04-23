@@ -57,9 +57,10 @@ gulp.task('css', function () {
 });
 
 // Copy fonts to site
-gulp.task('fonts', function () {
+gulp.task('fonts', function (done) {
   gulp.src('bower_components/font-awesome/fonts/**/*.{eot,svg,ttf,woff,woff2}')
    .pipe(gulp.dest('fonts'));
+  done();
 })
 
 // Run `jekyll serve`
@@ -127,9 +128,9 @@ gulp.task('images', function () {
 // Watch for file changes
 gulp.task('watch', function () {
   // Watch files
-  gulp.watch('__sass/**/*.scss', ['css']);
-  gulp.watch(['__includes/*.html', '__js/**/*.js'], ['js']);
-  gulp.watch('images/**/*.png', ['images']);
+  gulp.watch('__sass/**/*.scss', gulp.series('css'));
+  gulp.watch(['__includes/*.html', '__js/**/*.js'], gulp.series('js'));
+  gulp.watch('images/**/*.png', gulp.series('images'));
 });
 
 // Wire bower dependencies
@@ -146,13 +147,13 @@ gulp.task('wiredep', function() {
 // - serve: compile all assets, and start jekyll
 // --------------------------------------------------------------------------------------------------------------------
 
-gulp.task('default', ['serve']);
-
-gulp.task('serve', function () {
-  runsequence(
+gulp.task('serve', 
+  gulp.series(
     'clean', 
-    ['css', 'fonts', 'images', 'wiredep'], 
+    gulp.parallel('css', 'fonts', 'images', 'wiredep'), 
     'js',
-    ['jekyll-serve', 'watch']
-  );
-});
+    gulp.parallel('jekyll-serve', 'watch')
+  )
+);
+
+gulp.task('default', gulp.series('serve'));
