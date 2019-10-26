@@ -86,12 +86,15 @@ Equipment includes, but is not limited to:
 - 2 x continuous lighting 600 bi-colour LED panels
 - 1 x edge lit continous LED light
 - 1 x Godox SL150W high power continuous LED light with bowens mount to suit all our light shapers
+- 1 x Godox SL200W high power continuous LED light with bowens mount to suit all our light shapers
+- 1 x DS60/2.5T 2ft Kino style tungsten balanced continuous LED light
 - Standard soft boxes
 - Umbrellas
 - Beauty dish
 - Barn doors, with coloured gels
 - 140cm octagon softbox
 - Snoot
+- China ball lantern
 
 We are continually growing our equipment list, please call the studio manager if you have any additional requirements.
 
