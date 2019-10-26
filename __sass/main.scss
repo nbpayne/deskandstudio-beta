@@ -43,6 +43,10 @@ hr {
   margin-top: 15px;
 }
 
+.navbar .navbar-nav {
+  margin-bottom: 1rem;
+}
+
 .navbar-light .navbar-nav .nav-link {
   font-size: .875rem;
   text-align: right;
@@ -72,9 +76,11 @@ hr {
   border: none;
 }
 
-.form-inline {
-  float: right;
-  padding-left: 1rem;
+@include media-breakpoint-up(md) {
+  .form-inline {
+    float: right;
+    padding-left: 1rem;
+  }
 }
 
 // Main
