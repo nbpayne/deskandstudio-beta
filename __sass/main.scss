@@ -43,8 +43,14 @@ hr {
   margin-top: 15px;
 }
 
-.navbar .navbar-nav {
+.navbar-nav {
   margin-bottom: 1rem;
+}
+
+@include media-breakpoint-up(md) {
+  .navbar-nav {
+    margin-bottom: 0;
+  }
 }
 
 .navbar-light .navbar-nav .nav-link {
