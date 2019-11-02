@@ -6,7 +6,7 @@
       window.fbAsyncInit = function() {
         FB.init({
           xfbml            : true,
-          version          : 'v3.2'
+          version          : 'v5.0'
         });
       };
 
@@ -22,7 +22,9 @@
     <div class="fb-customerchat"
       attribution=setup_tool
       page_id="754437604717855"
-      theme_color="#0084ff">
+      theme_color="#0084ff"
+      logged_in_greeting="Do you have any questions? Click 'Book Now' to check studio availability."
+      logged_out_greeting="Do you have any questions? Click 'Book Now' to check studio availability.">
     </div>
   {% else %}
     <!-- Messenger goes here in PRD -->
