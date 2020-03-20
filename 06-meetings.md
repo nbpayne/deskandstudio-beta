@@ -11,6 +11,7 @@ image:
   path: "/images/heros/meetings-md.jpg"
   width: 1600
   height: 600
+published: false
 ---
 
 Tired of meeting clients at cafes?
