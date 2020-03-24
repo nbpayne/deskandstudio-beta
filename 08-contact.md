@@ -11,6 +11,7 @@ image:
   path: "/images/heros/contact-md.jpg"
   width: 1600
   height: 600
+redirect_from: /what-else/
 ---
 
 Lyn Taylor is a photographer, videographer, musician, project manager, and all-round creative type.
