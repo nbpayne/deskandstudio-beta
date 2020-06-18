@@ -36,7 +36,7 @@ The studio is painted white with two large arch windows, allowing for beautiful 
 - Floor area 5.7m wide x 9m deep with high ceilings (4.6m)
 - White brick walls give a textured backdrop
 - Great for photographers looking to shoot in natural light
-- Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
+- Internet via NBN WiFi (100Mbps downstream, 40Mbps upstream)
 - Unisex toilets and change area
 - Kitchenette with fridge, kettle, toaster and coffee &amp; tea facilities
 - 15 minutes from Sydney by bus
