@@ -36,7 +36,7 @@ The studio is painted white with two large arch windows, allowing for beautiful 
 - Floor area 5.7m wide x 9m deep with high ceilings (4.6m)
 - White brick walls give a textured backdrop
 - Great for photographers looking to shoot in natural light
-- Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
+- Internet via NBN WiFi (100Mbps downstream, 40Mbps upstream)
 - Unisex toilets and change area
 - Kitchenette with fridge, kettle, toaster and coffee &amp; tea facilities
 - 15 minutes from Sydney by bus
@@ -48,7 +48,7 @@ The studio is painted white with two large arch windows, allowing for beautiful 
 The studio has a number of equipment options available, including:
 
 - 2 X Godox 1200IIM 1200w studio flash heads
-- 1 X Godox 600IIM 600W studio flash head
+- 3 X Godox 600IIM 600W studio flash head
 - 2 X standard soft boxes
 - 2 X strip soft boxes
 - 140cm octagon softbox
@@ -67,7 +67,7 @@ The studio has a number of equipment options available, including:
 - 1 x edge lit continous LED light
 - 1 x Godox SL150W high power continuous LED light with bowens mount to suit all our light shapers
 - 1 x Godox SL200W high power continuous LED light with bowens mount to suit all our light shapers
-- 1 x DS60/2.5T 2ft Kino style tungsten balanced continuous LED light
+- 2 x DS60/2.5T 2ft Kino style tungsten balanced continuous LED light
 
 We are continually growing our equipment list, please call the studio manager if you have any additional requirements.
 

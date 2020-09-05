@@ -1,6 +1,7 @@
 
 <form class="col-md-8 mx-md-auto" id="needs-validation" method="POST" action="https://formspree.io/{{ site.email }}" novalidate>
   <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}/thanks/" />
+  <input type="hidden" name="_subject" value="New submission via {{ site.url}}{{ site.baseurl }}/contact/" />
   <div class="form-group">
     <label for="name">My name is:</label>
     <input type="text" class="form-control" id="name" name="name" placeholder="Full name" required>
@@ -23,49 +24,44 @@
 
   <fieldset class="form-group">
     <legend>I'm looking for:</legend>
-    <div class="custom-controls-stacked col-md-7 mx-md-auto">
+    <div class="col-md-7 mx-md-auto">
 
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" name="aPhotoStudio">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">a photo studio</span>
-      </label>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" name="aPhotoStudio" id="aPhotoStudio">
+        <label class="custom-control-label" for="aPhotoStudio">a photo studio</label>
+      </div>
 
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" name="aVideoStudio">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">a video studio</span>
-      </label>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" name="aVideoStudio" id="aVideoStudio">
+        <label class="custom-control-label" for="aVideoStudio">a video studio</label>
+      </div>
 
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" name="toAttendAWorkshop">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">to attend a workshop</span>
-      </label>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" name="toAttendAWorkshop" id="toAttendAWorkshop">
+        <label class="custom-control-label" for="toAttendAWorkshop">to attend a workshop</label>
+      </div>
 
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" name="aDesk">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">a desk</span>
-      </label>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" name="aDesk" id="aDesk">
+        <label class="custom-control-label" for="aDesk">a desk</label>
+      </div>
 
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" name="aMeetingRoom">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">a meeting room</span>
-      </label>
+      {% comment %}
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" name="aMeetingRoom" id="aMeetingRoom">
+        <label class="custom-control-label" for="aMeetingRoom">a meeting room</label>
+      </div>
+      {% endcomment %}
 
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" name="anEventSpace">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">an event space</span>
-      </label>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" name="anEventSpace" id="anEventSpace">
+        <label class="custom-control-label" for="anEventSpace">an event space</label>
+      </div>
 
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input" name="somethingElse">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">something else (please elaborate below)</span>
-      </label>
+      <div class="custom-control custom-checkbox">
+        <input type="checkbox" class="custom-control-input" name="somethingElse" id="somethingElse">
+        <label class="custom-control-label" for="somethingElse">something else (please elaborate below)</label>
+      </div>
     </div>
   </fieldset>
 
@@ -96,6 +92,10 @@
         event.preventDefault();
         event.stopPropagation();
         form.classList.add("was-validated");
+      } else {
+        form[1].value += ' from ' + form[2].value + ' on ' + moment().format();
+        // event.preventDefault();
+        // event.stopPropagation();
       }
     }, false);
   }, false);

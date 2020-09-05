@@ -1,6 +1,7 @@
 ---
 title: Meeting room for hire
 permalink: "/meetings/"
+published: false
 layout: default
 nav: Meetings
 description: Perfect for freelancers, creatives and small business owners hosting
@@ -27,7 +28,7 @@ If you need short-term hire of a meeting room in Petersham, look no further than
 - Our meeting room is available 5 days a week from 8.30am-5pm (after hours, and weekends by arrangement)
 - Boardroom table with seating for up to 8 people
 - Floor area 5.5m wide x 5m deep with high ceilings (4.5m)
-- Internet via ADSL2+ WiFi (15Mbps downstream, 1Mbps upstream)
+- Internet via NBN WiFi (100Mbps downstream, 40Mbps upstream)
 - Unisex toilets
 - Water/Tea and Coffee
 - Catering available from neighbouring cafes
