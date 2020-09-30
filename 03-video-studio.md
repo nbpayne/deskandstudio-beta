@@ -104,7 +104,7 @@ We are continually growing our equipment list, please call the studio manager if
 
 Check availability and book online now.
 
-<div class="card-columns">
+<div class="card-deck">
 
   {% include plans/studio-half-day.html %}
 
