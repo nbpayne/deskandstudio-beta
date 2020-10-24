@@ -90,7 +90,7 @@ Are your solo business efforts paying off, and you’re now looking for a perman
 
 Book today. Be a 'Deskie' tomorrow. It’s that simple!
 
-<div class="card-columns">
+<div class="card-deck">
 
   {% include plans/desk-day.html %}
   <div class="column-break"></div>

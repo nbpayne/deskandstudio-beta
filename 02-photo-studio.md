@@ -91,7 +91,7 @@ Configure the space to your needs
 
 Check availability and book online now.
 
-<div class="card-columns">
+<div class="card-deck">
 
   {% include plans/studio-half-day.html %}
 
